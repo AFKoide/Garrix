@@ -2,6 +2,13 @@
 
 - [Points principaux de Garrix](#points-principaux-de-garrix)
 - [Stats](#stats)
+  - [Charisme](#charisme)
+    - [Persuasion](#persuasion)
+    - [Intimidation](#intimidation)
+    - [Acheter](#acheter)
+    - [Charmer](#charmer)
+  - [Agilité](#agilité)
+  - [Chance](#chance)
 - [Gameplay](#gameplay)
   - [Dialogue](#dialogue)
   - [Combat](#combat)
@@ -24,21 +31,79 @@
 - [Autre](#autre)
   - [Elements](#elements)
   - [Monnaie](#monnaie)
-    - [Le Bec](#le-bec)
+    - [Le Becque](#le-becque)
     - [La Savatas](#la-savatas)
 
 # Stats
 
+Les attributs primaires sont les fondations de votre personnage.
+Aux nombres de 7, il s’agit de votre : charisme, force, chance, intelligence, agilité, perception & endurance. 
 
+Vous disposerez de 26 (28) points de potentiels à répartir entre les 7 attributs primaires disponible lors de la création de votre personnage. 
+La fourchette de répartition va de 0 à 10, mais certains talents et races peuvent la modifier. 
+Une fois la partie commencée, il sera toujours possible de changer cette disposition.
+
+En plus des points disponibles à la création du personnage, la race et le background de votre personnage vous ajoutera des points à certains attributs, maitrises, compétences…, pourront modifier les limites de votre personnage, et offrir des bonus de compétences temporaires en fonction des conditions de la planète ou de la situation actuelle. 
+Sachez cependant que ces derniers ne pourront pas être déplacé. 
+Il sera également possible que votre personnage débloque de nouveaux attributs au cours de l’aventure.
+
+## Charisme
+
+Le charisme défini vos interactions avec les autres.
+
+### Persuasion
+
+Persuader quelqu’un est difficile, mais bien moins que certaines autres interactions. Si vous y parvenez, alors la cible fera ce que vous lui demanderez, ni plus, ni moins.
+La persuasion ne fonctionne qu’avec les créatures dotées d’intelligence, et vous n’encourez peu de problème en cas d’échec.
+Le charisme rend les persuasions plus simples.
+
+### Intimidation
+
+Se basant sur votre apparence et votre notoriété, l’intimidation est un test bien plus facile que la persuasion. Si intimidée, la personne fera ce que vous lui demandez par peur (ou obligation), mais vous anatomisera, c’est-à-dire qu’elle se souviendra de vous, et de vos actions.
+Le charisme influencera le comportement pendant et après l’intimidation. Plus il est haut, moins la victime aura de ressentiment envers vous, et plus les actions qu’il voudra faire seront diversifiés. Sachez que votre force sera aussi testé durant une intimidation, pour évaluer comment vous serez jugé.
+
+### Acheter
+
+Pourquoi chercher à persuader avec des mots quand on peut acheter la personne. Quelques parsecs devraient résoudre vos problèmes, et tous le monde sera comptant.
+Le charisme diminuera le coup d’acheter une personne ou un service.
+
+### Charmer
+
+De loin le test le plus difficile. Tout comme l’intimidation, votre apparence rentrera en compte pour le test. Mais ce ne sera pas tout : votre sexualité, et celle de la cible fera aussi parti du test. Si elles s’accordent, vous ne souffrirez d’aucun malus, mais sinon, vos jets auront une difficulté accrue pouvant aller jusqu’au désavantages.
+Une personne charmée cherchera à gagner vos faveurs, et ceux au cours du temps. Elle aura toujours son libre arbitre, si bien que si vous n’en valez plus la peine, elle s’en ira.
+Le charisme facilitera le charme.
+
+## Agilité
+
+L’agilité correspond à la facilité de mouvoir son personnage. Plus l’agilité est élevée, plus un personnage se déplacera facilement, sera discret et esquivera. 
+Esquiver est une des nouvelles mécaniques de Garrix. 
+Toute attaque considérée comme étant non Hit Scan (dégâts instantanées (tous les projectiles, le CàC et certains sorts psycho)) peuvent être évités : 
+L’esquive annule les dégâts directs, et peut réduire de moitié les dégâts indirects. En cas d’échec, vous vous rendrez vulnérable dans une tentative désespérée d’esquiver.
+Vous et l’ennemi devront faire un test, le premier d’agilité, et le second de perception/force. La différence entre les deux jets déterminera l’esquive effectuée :
+
+- Un seul des dés fait 20 : réussite automatique.
+- Égalité (extrêmes compris), rien.
+- Un des dés est supérieur, il est gagnant.
+
+L’égalité est considérée à +/- 2, et si la différence est supérieure ou égale à 5, alors l’action sera considérée comme réussie. Enfin, entre 2 et 5, elle sera à demi réussie.
+
+## Chance
+
+La chance désigne les chances que quelque chose (d’inhabituel) se passe. Allant du loot trouvé dans un vaisseau à un deus ex machina, cet attribut influence sur la réussite hasardeuse de votre personnage.
+Cet attribut fonctionne différemment des autres : à chaque test, le joueur peut décider de tester sa chance, cet attribut sera alors ajouté à l’attribut testé. 
+Si le test réussi grâce à l’ajout de la chance, alors le personnage réussira par chance son action. Il ne gagnera aucun bonus (avantage au prochain jet, connaissance supplémentaire etc.). Si le joueur rate son lancer alors qu’il a tenté sa chance, il y a échec. Il devra faire un test de chance à la suite d’un repos court pour pouvoir retenter sa chance. 
+L’action de tenter sa chance devra se suivre obligatoirement d’un test : il ne peut pas y avoir de réussite automatique.
 
 ---
 
 # Gameplay
 
 ## Dialogue
-Pour dialoguer ou s'adresser à quelqu'un ou quelque chose, il faut que l'on puisse se comprendre. 
+
+Pour dialoguer ou s'adresser à quelqu'un ou quelque chose, il faut que l'on puisse se comprendre.
 Dans le futur, les traducteurs automatiques sont intégré à tous les systèmes neuronaux du marché. Ils permettent de traduire instantanément presque toutes les langues de la galaxie.
-L'accès au langue est néanmoins payant (ainsi que les mises à jours) et ces packs ne sont exempts d'erreur (de pronontiation, de lexique). Les patois, expressions populaires etc. ne sont pas prises en charge. Enfin, toutes les langues ne sont pas forcément disponibles : dans ces cas là, le traducteur apprendra et s'améliorera.
+L'accès au langue est néanmoins payant (ainsi que les mises à jours) et ces packs ne sont exempts d'erreur (de prononciation, de lexique). Les patois, expressions populaires (etc.) ne sont pas prises en charge. Enfin, toutes les langues ne sont pas forcément disponibles : dans ces cas là, le traducteur apprendra et s'améliorera.
+
 ## Combat
 
 Un combat peut se déclencher à l'initiative des joueurs ou des PNJ. Dans le cas d'une attaque surprise, le camp qui l'initie profite d'un **avantage** lors de son premier tour de jeu.
@@ -53,13 +118,13 @@ Chaque attaque physique nécessite de viser, qu'importe si c'est une arme à dis
 - Torse : Cible la plus grosse, endroit le plus simple à toucher, mais généralement le plus renforcé.
 - Tête & cou : dégât les plus élevé, peut causer aveuglement et confusions. Une attaque réussite qui réduit à 0 les PV garantisse le décès.
 
-Toucher les membres peut causer un *Démembrement* (la décapitation est considéré comme tel). L'état démembré fait qu'il est impossible pour la victime d'utiliser ce membre à moins qu'il le rattache ou qu'un nouveau pousse.
+Toucher les membres peut causer un _Démembrement_ (la décapitation est considéré comme tel). L'état démembré fait qu'il est impossible pour la victime d'utiliser ce membre à moins qu'il le rattache ou qu'un nouveau pousse.
 
 Il est également possible de viser des éléments spécifiques, tel qu'une arme, une armure, un éléments du décor (etc.).
 
 ### Attaque Cybernétique
 
-Les attaques *Cybernétique* sont
+Les attaques _Cybernétique_ sont
 
 ## Mort
 
@@ -74,7 +139,7 @@ Cependant, la mort n'est pas l'ultime destination d'un joueur mort, il peut reve
 
 - Si c'est une machine ;
     Dans ce cas, il suffit de connecter son noyau de personnalité à n'importe quel appareil.
-    **Attention** : plus un noyau de personnalité reste longtemps sans alimentation, plus sa RAM se vide, ce qui résulte par la *perte des souvenirs et expériences récentes* (car non gravé).
+    **Attention** : plus un noyau de personnalité reste longtemps sans alimentation, plus sa RAM se vide, ce qui résulte par la _perte des souvenirs et expériences récentes_ (car non gravé).
     Sachez cependant que la destruction d'un robot contrôlé à distance n'entraînera aucun dégâts significatif à son contrôleur.
 
 - Sinon
@@ -84,7 +149,9 @@ Cependant, la mort n'est pas l'ultime destination d'un joueur mort, il peut reve
 ---
 
 # Équipement
+
 ## Implant Neuronal
+
 L'une des inventions majeure de l'humanité, l'implant neuronal a révolutionné le quotidien. Relique de la Première Ère, ce petit bout de technologie se met directement dans le cortex cérébrale et offre de nombreuses applications
 
 ## Arme
@@ -131,7 +198,7 @@ A la différence des armes Cinétiques, les armes **Énergétiques** doivent êt
 
 #### Arme Énergétique au Corps à Corps
 
-Une arme de mêlée énergétique est similaire au *Physique*, à quelques gimmick près. En effet, les armes de mêlée (CaC à partir de maintenant) énergétique peuvent être activé (consomme une action bonus), ce qui change ses propriétés.
+Une arme de mêlée énergétique est similaire au _Physique_, à quelques gimmick près. En effet, les armes de mêlée (CaC à partir de maintenant) énergétique peuvent être activé (consomme une action bonus), ce qui change ses propriétés.
 
 ## Armure
 
@@ -162,11 +229,11 @@ a.
 
 ## Monnaie
 
-### Le Bec
+### Le Becque
 
-La monnaie dans Garrix s'appelle le *Bec*. Due à la taille de la galaxie, elle souffre de fluctuation énorme entre les différents systèmes et planètes. 
+La monnaie dans Garrix s'appelle le _Becque_. Due à la taille de la galaxie, elle souffre de fluctuation énorme entre les différents systèmes et planètes.
 Cette monnaie est universelle, certains systèmes ont tout de même crée des monnaies uniques.
 
 ### La Savatas
 
-La *Savatas* est une fine poudre verte qui est utilisée comme carburant dans les moteur à bond. Rare, elle est également utilisée par les contrebandiers comme monnaie parallèle au *Bec* car intraçable, et sa rareté garantie une très faible fluctuation. Nécessaire  elle peut également être consommée pour booster la plupart des machines et consommables létaux.
+La _Savatas_ est une fine poudre verte qui est utilisée comme carburant dans les moteur à bond. Rare, elle est également utilisée par les contrebandiers comme monnaie parallèle au _Becque_ car intraçable, et sa rareté garantie une très faible fluctuation. Nécessaire elle peut également être consommée pour booster la plupart des machines et consommables létaux.
