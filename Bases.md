@@ -36,7 +36,9 @@
 # Gameplay
 
 ## Dialogue
-
+Pour dialoguer ou s'adresser à quelqu'un ou quelque chose, il faut que l'on puisse se comprendre. 
+Dans le futur, les traducteurs automatiques sont intégré à tous les systèmes neuronaux du marché. Ils permettent de traduire instantanément presque toutes les langues de la galaxie.
+L'accès au langue est néanmoins payant (ainsi que les mises à jours) et ces packs ne sont exempts d'erreur (de pronontiation, de lexique). Les patois, expressions populaires etc. ne sont pas prises en charge. Enfin, toutes les langues ne sont pas forcément disponibles : dans ces cas là, le traducteur apprendra et s'améliorera.
 ## Combat
 
 Un combat peut se déclencher à l'initiative des joueurs ou des PNJ. Dans le cas d'une attaque surprise, le camp qui l'initie profite d'un **avantage** lors de son premier tour de jeu.
@@ -82,12 +84,8 @@ Cependant, la mort n'est pas l'ultime destination d'un joueur mort, il peut reve
 ---
 
 # Équipement
-
-L'équipement correspond à l'intégralité des
-
 ## Implant Neuronal
-
-Ce petit bout de technologie se place directement dans le cortex cérébral. Il est remplit de nombreuses 
+L'une des inventions majeure de l'humanité, l'implant neuronal a révolutionné le quotidien. Relique de la Première Ère, ce petit bout de technologie se met directement dans le cortex cérébrale et offre de nombreuses applications
 
 ## Arme
 
