@@ -8,6 +8,9 @@
     - [Acheter](#acheter)
     - [Charmer](#charmer)
   - [Agilité](#agilité)
+    - [Déplacement](#déplacement)
+    - [Furtivité](#furtivité)
+    - [Esquiver](#esquiver)
   - [Chance](#chance)
 - [Gameplay](#gameplay)
   - [Dialogue](#dialogue)
@@ -29,23 +32,26 @@
     - [Énergétique](#énergétique)
   - [Consommables](#consommables)
 - [Autre](#autre)
-  - [Elements](#elements)
   - [Monnaie](#monnaie)
     - [Le Becque](#le-becque)
     - [La Savatas](#la-savatas)
 
+<br/><br/>
+
 # Stats
 
 Les attributs primaires sont les fondations de votre personnage.
-Aux nombres de 7, il s’agit de votre : charisme, force, chance, intelligence, agilité, perception & endurance. 
+Aux nombres de 7, il s’agit de votre, charisme, force, chance, intelligence, agilité, perception & endurance. 
 
-Vous disposerez de 26 (28) points de potentiels à répartir entre les 7 attributs primaires disponible lors de la création de votre personnage. 
+Vous disposerez de  points de potentiels à répartir entre les 7 attributs primaires disponible lors de la création de votre personnage. 
 La fourchette de répartition va de 0 à 10, mais certains talents et races peuvent la modifier. 
 Une fois la partie commencée, il sera toujours possible de changer cette disposition.
 
-En plus des points disponibles à la création du personnage, la race et le background de votre personnage vous ajoutera des points à certains attributs, maitrises, compétences…, pourront modifier les limites de votre personnage, et offrir des bonus de compétences temporaires en fonction des conditions de la planète ou de la situation actuelle. 
-Sachez cependant que ces derniers ne pourront pas être déplacé. 
+En plus des points disponibles à la création du personnage, la race et le background de votre personnage vous ajoutera des points à certains attributs, maîtrises, compétences…, pourront modifier les limites de votre personnage, et offrir des bonus de compétences temporaires en fonction des conditions de la planète ou de la situation actuelle. 
+Sachez cependant que ces derniers ne pourront pas être déplacé.
 Il sera également possible que votre personnage débloque de nouveaux attributs au cours de l’aventure.
+
+<br/>
 
 ## Charisme
 
@@ -73,28 +79,47 @@ De loin le test le plus difficile. Tout comme l’intimidation, votre apparence 
 Une personne charmée cherchera à gagner vos faveurs, et ceux au cours du temps. Elle aura toujours son libre arbitre, si bien que si vous n’en valez plus la peine, elle s’en ira.
 Le charisme facilitera le charme.
 
+<br/>
+
 ## Agilité
 
-L’agilité correspond à la facilité de mouvoir son personnage. Plus l’agilité est élevée, plus un personnage se déplacera facilement, sera discret et esquivera. 
-Esquiver est une des nouvelles mécaniques de Garrix. 
-Toute attaque considérée comme étant non Hit Scan (dégâts instantanées (tous les projectiles, le CàC et certains sorts psycho)) peuvent être évités : 
-L’esquive annule les dégâts directs, et peut réduire de moitié les dégâts indirects. En cas d’échec, vous vous rendrez vulnérable dans une tentative désespérée d’esquiver.
+L’agilité correspond à la facilité de mouvoir son personnage. Plus l’agilité est élevée, plus un personnage se déplacera facilement, sera discret et sera en capacité d'esquiver.
+
+### Déplacement
+
+### Furtivité
+
+### Esquiver
+
+Esquiver est une mécanique particulière dans Garrix.
+Toute attaque considérée comme étant non Hit Scan (dégâts instantanées (tous les projectiles, le CàC et certains sorts psycho)) peuvent être évités.
+L’esquive annule les dégâts directs, et peut réduire de moitié les dégâts indirects.
 Vous et l’ennemi devront faire un test, le premier d’agilité, et le second de perception/force. La différence entre les deux jets déterminera l’esquive effectuée :
 
 - Un seul des dés fait 20 : réussite automatique.
-- Égalité (extrêmes compris), rien.
+- Égalité (extrêmes compris), esquive ratée.
 - Un des dés est supérieur, il est gagnant.
 
-L’égalité est considérée à +/- 2, et si la différence est supérieure ou égale à 5, alors l’action sera considérée comme réussie. Enfin, entre 2 et 5, elle sera à demi réussie.
+En cas d’échec, vous vous rendez *vulnérable*.
+
+<br/>
 
 ## Chance
 
-La chance désigne les chances que quelque chose (d’inhabituel) se passe. Allant du loot trouvé dans un vaisseau à un deus ex machina, cet attribut influence sur la réussite hasardeuse de votre personnage.
-Cet attribut fonctionne différemment des autres : à chaque test, le joueur peut décider de tester sa chance, cet attribut sera alors ajouté à l’attribut testé. 
-Si le test réussi grâce à l’ajout de la chance, alors le personnage réussira par chance son action. Il ne gagnera aucun bonus (avantage au prochain jet, connaissance supplémentaire etc.). Si le joueur rate son lancer alors qu’il a tenté sa chance, il y a échec. Il devra faire un test de chance à la suite d’un repos court pour pouvoir retenter sa chance. 
+La chance désigne les chances que quelque chose (d’inhabituel) se passe. Cet attribut influence sur la réussite hasardeuse de votre personnage.
+
+Cet attribut fonctionne différemment des autres : à chaque test, le joueur peut déclarer qu'il teste sa chance. Sa chance sera alors ajouté à son attribut testé.
 L’action de tenter sa chance devra se suivre obligatoirement d’un test : il ne peut pas y avoir de réussite automatique.
 
+Si le test réussi :
+
+- Grâce à l’ajout de la chance, alors le personnage réussira par chance son action. Il réussira son action, mais ne gagnera aucun bonus (avantage au prochain jet, connaissance supplémentaire etc.) due à sa réussite. Un repos court redonne un test, tandis qu'un repos long les redonne tous.
+- Sans l'ajout de la chance, alors le joueur conservera son test. Il ne pourra cependant pas la tester pour le restant de la situation actuelle.
+
+Si le joueur rate son lancer alors qu’il a tenté sa chance, il y a échec. Il devra faire un test de chance à la suite d’un repos court pour pouvoir retenter sa chance.
+
 ---
+<br/>
 
 # Gameplay
 
@@ -142,11 +167,12 @@ Cependant, la mort n'est pas l'ultime destination d'un joueur mort, il peut reve
     **Attention** : plus un noyau de personnalité reste longtemps sans alimentation, plus sa RAM se vide, ce qui résulte par la _perte des souvenirs et expériences récentes_ (car non gravé).
     Sachez cependant que la destruction d'un robot contrôlé à distance n'entraînera aucun dégâts significatif à son contrôleur.
 
-- Sinon
-    Son corps peut être apporté au chaman du coin, en espérant que ce dernier arrive à invoquer l'âme du défunt avant que les **Limbes** ait trop atteint sa psyché. Un chaman coûte également plus cher que la réimpression de son corps.
-    Une exposition prolongée aux Limbes peut avoir de grave conséquence pour le personnage, et la folie est généralement le plus doux des effets secondaires. Mais dans de très rare cas, le personnage peut obtenir des pouvoirs surnaturels, mais à quel prix...
+- Sinon ;
+    Fin de la partie pour ce personnage.
+    Il pourra léguer ses connaissances et son expérience sous forme de Mémoires (qui prendront la forme que le joueur souhaite) au nouveau personnage.
 
 ---
+<br/>
 
 # Équipement
 
@@ -220,12 +246,9 @@ Les protections énergétiques seront plus sensibles aux armes expérimentales, 
 Les Consommable sont généralement les objets à usage unique, qui peuvent être utilisé en combat, et que l’on doit réapprovisionner (exception, des munitions).
 
 ---
+<br/>
 
 # Autre
-
-## Elements
-
-a.
 
 ## Monnaie
 
