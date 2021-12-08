@@ -1,6 +1,6 @@
 # Types de dégâts
 
-Un des facteurs à prendre en compte lors des combats, il s'agit des éléments.
+Un des facteurs à prendre en compte lors des combats, les éléments.
 
 ## Cinétique
 
