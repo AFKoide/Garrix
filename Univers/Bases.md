@@ -1,5 +1,4 @@
 # Points principaux de Garrix
-
 - [Points principaux de Garrix](#points-principaux-de-garrix)
 - [Stats](#stats)
   - [Charisme](#charisme)
@@ -40,46 +39,65 @@
 
 # Stats
 
-Les attributs primaires sont les fondations de votre personnage.
-Aux nombres de 7, il s’agit de votre, charisme, force, chance, intelligence, agilité, perception & endurance. 
+Les *Attributs Primaires* sont les fondations de votre personnage.
+Aux nombres de 7, il s’agit de votre charisme, force, chance, intelligence, agilité, perception & endurance.
 
-Vous disposerez de  points de potentiels à répartir entre les 7 attributs primaires disponible lors de la création de votre personnage. 
+Vous disposerez de  points de potentiels à répartir entre les 7 attributs primaires disponible lors de la création de votre personnage.  
 La fourchette de répartition va de 0 à 10, mais certains talents et races peuvent la modifier. 
-Une fois la partie commencée, il sera toujours possible de changer cette disposition.
+Une fois la partie commencée, il sera toujours possible de changer votre disposition.
 
-En plus des points disponibles à la création du personnage, la race et le background de votre personnage vous ajoutera des points à certains attributs, maîtrises, compétences…, pourront modifier les limites de votre personnage, et offrir des bonus de compétences temporaires en fonction des conditions de la planète ou de la situation actuelle. 
-Sachez cependant que ces derniers ne pourront pas être déplacé.
+Sachez également que l'histoire de votre personnage, sa race et son métier influenceront la répartition des points d'attributs primaires, ainsi que les maîtrises. Ces derniers ne pourront pas être déplacé, ou modifier.
+
 Il sera également possible que votre personnage débloque de nouveaux attributs au cours de l’aventure.
 
 <br/>
 
 ## Charisme
 
-Le charisme défini vos interactions avec les autres.
+Le **Charisme** défini vos interactions avec les autres.
 
 ### Persuasion
 
-Persuader quelqu’un est difficile, mais bien moins que certaines autres interactions. Si vous y parvenez, alors la cible fera ce que vous lui demanderez, ni plus, ni moins.
-La persuasion ne fonctionne qu’avec les créatures dotées d’intelligence, et vous n’encourez peu de problème en cas d’échec.
-Le charisme rend les persuasions plus simples.
+La *Persuasion* ne fonctionne qu’avec les créatures dotées d’intelligence.  
+En cas d'échec, vous ne risquez que très peu.
+
+Le **Charisme** rend les persuasions plus simples.
+
+<br/>
+
+### Corrompre
+
+*Corrompre* une personne revient à le *Persuader*, mais en échange d'un petit pécule d'argent.  
+Cette action sera cependant plus difficile à réaliser contre des individus ayant un fort sens morale, ou extrêmement chère si l'individu sais marchander.  
+En cas d'échec, la cible peut augmenter la somme demandée, ou tout simplement ne plus vouloir interagir avec vous (pour le moment).  
+De plus, il est également possible que votre réputation diminue. 
+
+Le **Charisme** diminuera le montant nécessaire, et permettra de corrompre plus facilement personnes et entités.
+
+<br/>
 
 ### Intimidation
 
-Se basant sur votre apparence et votre notoriété, l’intimidation est un test bien plus facile que la persuasion. Si intimidée, la personne fera ce que vous lui demandez par peur (ou obligation), mais vous anatomisera, c’est-à-dire qu’elle se souviendra de vous, et de vos actions.
-Le charisme influencera le comportement pendant et après l’intimidation. Plus il est haut, moins la victime aura de ressentiment envers vous, et plus les actions qu’il voudra faire seront diversifiés. Sachez que votre force sera aussi testé durant une intimidation, pour évaluer comment vous serez jugé.
+Se basant sur votre apparence et votre notoriété, l’*Intimidation* force, par votre aura (ou vos poings), la cible à faire ce que vous lui dites.  
+En cas d'échec, la cible peut devenir violente, s'enfuir ou tout simplement ne plus vouloir interagir avec vous.  
+De plus, il est également possible que votre réputation diminue.
 
-### Acheter
-
-Pourquoi chercher à persuader avec des mots quand on peut acheter la personne. Quelques parsecs devraient résoudre vos problèmes, et tous le monde sera comptant.
-Le charisme diminuera le coup d’acheter une personne ou un service.
-
-### Charmer
-
-De loin le test le plus difficile. Tout comme l’intimidation, votre apparence rentrera en compte pour le test. Mais ce ne sera pas tout : votre sexualité, et celle de la cible fera aussi parti du test. Si elles s’accordent, vous ne souffrirez d’aucun malus, mais sinon, vos jets auront une difficulté accrue pouvant aller jusqu’au désavantages.
-Une personne charmée cherchera à gagner vos faveurs, et ceux au cours du temps. Elle aura toujours son libre arbitre, si bien que si vous n’en valez plus la peine, elle s’en ira.
-Le charisme facilitera le charme.
+Le charisme influencera le comportement pendant et après l’*Intimidation*. En fonction du type d'*Intimidation*, cela ne sera pas que le **Charisme** qui sera testé.  
+Sachez cependant qu'il est possible que vous tuiez votre cible durant vos tentatives.
 
 <br/>
+
+### Charme
+
+Le *Charme* se base sur les qualités de votre personnage. 
+Plus ces dernières s'accordent avec la cible, plus il sera simple de la charmer.  
+Une personne charmée cherchera à gagner vos faveurs, et fera ce que vous lui demander.  
+En cas d'échec, vous ne risquez rien hormis de paraître ridicule aux yeux de votre cible, ou de la gêner.
+
+Même charmée, elle aura cependant toujours son libre arbitre, si bien qu'il sera très difficile que lui demander de faire des choses qui iront à l'opposée de ses principes.  
+Elle peut également se désintéresse de vous, elle ne cherchera plus votre compagnie (vous conserverez toujours un contact avec elle).
+
+<br/><br/>
 
 ## Agilité
 
@@ -87,22 +105,30 @@ L’agilité correspond à la facilité de mouvoir son personnage. Plus l’agil
 
 ### Déplacement
 
+<br/>
+
 ### Furtivité
+
+<br/>
 
 ### Esquiver
 
 Esquiver est une mécanique particulière dans Garrix.
-Toute attaque considérée comme étant non Hit Scan (dégâts instantanées (tous les projectiles, le CàC et certains sorts psycho)) peuvent être évités.
+Toute attaque considérée comme étant non Hit Scan (dégâts instantanées (tous les projectiles très rapides et certains sorts psycho)) peuvent être évités.
 L’esquive annule les dégâts directs, et peut réduire de moitié les dégâts indirects.
-Vous et l’ennemi devront faire un test, le premier d’agilité, et le second de perception/force. La différence entre les deux jets déterminera l’esquive effectuée :
+Vous et l’ennemi devront faire un test, le premier d’agilité, et le second de perception/force. La différence entre les deux jets déterminera l'action à la suite de la tentative d'esquive :
 
-- Un seul des dés fait 20 : réussite automatique.
-- Égalité (extrêmes compris), esquive ratée.
-- Un des dés est supérieur, il est gagnant.
+| Dé               | Résultat                  |
+| ---------------- | ------------------------- |
+| Esquive > Action | Esquive réussie.          |
+| Esquive = Action | Esquive ratée.            |
+| Esquive < Action | Échec, état _vulnérable_. |
 
-En cas d’échec, vous vous rendez *vulnérable*.
+- Un 20 garantie la réussite, avec *avantage*.
+- Un 1 est un échec garantie, avec *désavantage*.
+- L'égalité comprend les valeurs extrêmes.
 
-<br/>
+<br/><br/>
 
 ## Chance
 
@@ -118,16 +144,39 @@ Si le test réussi :
 
 Si le joueur rate son lancer alors qu’il a tenté sa chance, il y a échec. Il devra faire un test de chance à la suite d’un repos court pour pouvoir retenter sa chance.
 
+<br/>
+
 ---
+
 <br/>
 
 # Gameplay
+
+## Test
+
+Un test est à réaliser quand un personnage doit réaliser une action et que son niveau de maîtrise n'est pas assez haut, ou qu'elle est apte à la chance.
+Ainsi, un personnage devra faire un test si il veut atterrir son vaisseau. Cependant, si il maîtrise l'atterrissage et connaît son vaisseau, l'action sera automatiquement un succès.
+A l'inverse, si le personnage veut crocheter une porte, il devra faire dans tous les cas le test : son niveau de maîtrise ne fera que rendre le test plus simple à réaliser.
+
+### Action
+
+Le test pour réaliser une action se fait en **base 20**.  
+
+<br/>
+
+### En combat
+
+En combat, les tests se font en **base 100**.  
+
+<br/><br/>
 
 ## Dialogue
 
 Pour dialoguer ou s'adresser à quelqu'un ou quelque chose, il faut que l'on puisse se comprendre.
 Dans le futur, les traducteurs automatiques sont intégré à tous les systèmes neuronaux du marché. Ils permettent de traduire instantanément presque toutes les langues de la galaxie.
 L'accès au langue est néanmoins payant (ainsi que les mises à jours) et ces packs ne sont exempts d'erreur (de prononciation, de lexique). Les patois, expressions populaires (etc.) ne sont pas prises en charge. Enfin, toutes les langues ne sont pas forcément disponibles : dans ces cas là, le traducteur apprendra et s'améliorera.
+
+<br/><br/>
 
 ## Combat
 
@@ -151,6 +200,8 @@ Il est également possible de viser des éléments spécifiques, tel qu'une arme
 
 Les attaques _Cybernétique_ sont
 
+<br/><br/>
+
 ## Mort
 
 Un personnage ayant 0 PV passe à l'état **Critique**.
@@ -171,7 +222,10 @@ Cependant, la mort n'est pas l'ultime destination d'un joueur mort, il peut reve
     Fin de la partie pour ce personnage.
     Il pourra léguer ses connaissances et son expérience sous forme de Mémoires (qui prendront la forme que le joueur souhaite) au nouveau personnage.
 
+<br/>
+
 ---
+
 <br/>
 
 # Équipement
@@ -179,6 +233,8 @@ Cependant, la mort n'est pas l'ultime destination d'un joueur mort, il peut reve
 ## Implant Neuronal
 
 L'une des inventions majeure de l'humanité, l'implant neuronal a révolutionné le quotidien. Relique de la Première Ère, ce petit bout de technologie se met directement dans le cortex cérébrale et offre de nombreuses applications
+
+<br/><br/>
 
 ## Arme
 
@@ -200,6 +256,8 @@ Un rechargement prend entre un tour et une réaction selon le rang de maîtrise 
 #### Arme Cinétique au Corps à Corps
 
 Une arme de mêlée physique fonctionne comme on l'imagine : on tape et ca fait mal.
+
+<br/>
 
 ### Energie
 
@@ -226,6 +284,8 @@ A la différence des armes Cinétiques, les armes **Énergétiques** doivent êt
 
 Une arme de mêlée énergétique est similaire au _Physique_, à quelques gimmick près. En effet, les armes de mêlée (CaC à partir de maintenant) énergétique peuvent être activé (consomme une action bonus), ce qui change ses propriétés.
 
+<br/><br/>
+
 ## Armure
 
 Il existe deux différents types de protections :
@@ -235,17 +295,24 @@ Il existe deux différents types de protections :
 Les protections balistiques (ou armure), tel que les gilets pare-balles, réduisent de façon passive les dégâts que vous subissez.
 Sachez cependant que certains effets de statuts ignoreront vos protections.
 
+<br/>
+
 ### Énergétique
 
 Les protections énergétiques (ou bouclier), augmente la difficulté pour vous toucher.
 Ainsi, la présence d’un bouclier fera en sorte qu’une difficulté de 2 passera a 5, voir 7 si le bouclier est perfectionné.
 Les protections énergétiques seront plus sensibles aux armes expérimentales, ce qui risque de réduire l’effet des boucliers.
 
+<br/><br/>
+
 ## Consommables
 
 Les Consommable sont généralement les objets à usage unique, qui peuvent être utilisé en combat, et que l’on doit réapprovisionner (exception, des munitions).
 
+<br/>
+
 ---
+
 <br/>
 
 # Autre
@@ -256,6 +323,8 @@ Les Consommable sont généralement les objets à usage unique, qui peuvent êtr
 
 La monnaie dans Garrix s'appelle le _Becque_. Due à la taille de la galaxie, elle souffre de fluctuation énorme entre les différents systèmes et planètes.
 Cette monnaie est universelle, certains systèmes ont tout de même crée des monnaies uniques.
+
+<br/>
 
 ### La Savatas
 
