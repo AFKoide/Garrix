@@ -1,6 +1,6 @@
 # Garrix
 
-Bienvenue sur le JDR de Garrix.
+Bienvenue sur le JDR de Garrix.  
 Vous trouverez dans ce dépôt tout ce qu'il y a a savoir sur Garrix.
 
 ## Sommaire
