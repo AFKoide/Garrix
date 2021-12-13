@@ -1,4 +1,4 @@
-- [Stats](#stats)
+- [Attributs Primaires](#attributs-primaires)
   - [Endurance](#endurance)
   - [Force](#force)
   - [Intelligence](#intelligence)
@@ -12,25 +12,27 @@
     - [Furtivité](#furtivité)
     - [Esquiver](#esquiver)
   - [Chance](#chance)
+- [Maîtrises](#maîtrises)
 
-# Stats
+# Attributs Primaires
 
 Les *Attributs Primaires* sont les fondations de votre personnage.
 Aux nombres de 7, il s’agit de votre **[Endurance](#endurance)**, **[Force](#force)**, **[Intelligence](#intelligence)**, **[Perception](#perception)**, **[Charisme](#charisme)**, **[Agilité](#agilité)** & **[Chance](#chance)**.
 
-Vous disposerez de `Nombre` points de potentiels à répartir entre les 7 attributs primaires disponible lors de la création de votre personnage.  
-La fourchette de répartition va de 0 à 10, mais certains talents et races peuvent la modifier. 
+Vous disposerez de Nombre points de potentiels à répartir entre les 7 attributs primaires disponible lors de la création de votre personnage.  
+La fourchette de répartition va de 0 à 10, mais certains talents et races peuvent la changer.  
 Une fois la partie commencée, il sera toujours possible de changer votre disposition.
 
 Sachez également que l'histoire de votre personnage, sa race et son métier influenceront la répartition des points d'attributs primaires, ainsi que les maîtrises. Ces derniers ne pourront pas être déplacé, ou modifier.
 
-Il sera également possible que votre personnage débloque de nouveaux attributs au cours de l’aventure.
+Sachez également que votre personnage pourra débloquer recevoir des points d'attributs permanents supplémentaires au cours de l’aventure. Ces points sont fixes.
 
 <br/>
 
 ## Endurance
 
-L'**Endurance** est 
+L'**Endurance** est l'*Attribut* qui caractérise la résistance, la robustesse et le tempérament de votre personnage.  
+Plus il est élevé, plus votre personnage sera capable d'encaisser, aussi bien psychologiquement que physiquement. 
 
 <br/>
 
@@ -49,12 +51,13 @@ L'**Intelligence** est
 ## Charisme
 
 Le **Charisme** défini vos interactions avec les autres.  
-Ce 
+
 
 ### Persuasion
 
 La *Persuasion* ne fonctionne qu’avec les créatures dotées d’intelligence.  
-En cas d'échec, vous ne risquez que très peu.
+En cas de <u>réussite</u>, vous parvenez à convaincre votre interlocuteur, et se pliera à votre demande formulée.  
+En cas d'<u>échec</u>, vous ne risquez que très peu.
 
 Le **Charisme** rend les persuasions plus simples.
 
@@ -62,9 +65,9 @@ Le **Charisme** rend les persuasions plus simples.
 
 ### Corrompre
 
-*Corrompre* une personne revient à le *Persuader*, mais en échange d'un petit pécule d'argent.  
-Cette action sera cependant plus difficile à réaliser contre des individus ayant un fort sens morale, ou extrêmement chère si l'individu sais marchander.  
-En cas d'échec, la cible peut augmenter la somme demandée, ou tout simplement ne plus vouloir interagir avec vous (pour le moment).  
+*Corrompre* une personne revient à *Persuader*, mais en échange d'un petit pécule d'argent.  
+Cette action est plus difficile à réaliser contre des individus ayant un fort sens morale, peut être même extrêmement chère si l'individu sais marchander.  
+En cas d'<u>échec</u>, la cible peut augmenter la somme demandée, ou tout simplement ne plus vouloir interagir avec vous (pour le moment).  
 De plus, il est également possible que votre réputation diminue. 
 
 Le **Charisme** diminuera le montant nécessaire, et permettra de corrompre plus facilement personnes et entités.
@@ -74,8 +77,9 @@ Le **Charisme** diminuera le montant nécessaire, et permettra de corrompre plus
 ### Intimidation
 
 Se basant sur votre apparence et votre notoriété, l’*Intimidation* force, par votre aura (ou vos poings), la cible à faire ce que vous lui dites.  
-En cas d'échec, la cible peut devenir violente, s'enfuir ou tout simplement ne plus vouloir interagir avec vous.  
-De plus, il est également possible que votre réputation diminue.
+En cas de <u>réussite</u>, elle sera *Soumise* : elle sera effrayé par vous et répondront à toutes vos demandes. A chacune d'elle, il fera néanmoins un test d'**Endurance** pour essayer de se ressaisir.  
+En cas d'<u>échec</u>, la cible peut devenir violente, s'enfuir et/ou tout simplement ne plus vouloir interagir avec vous.  
+De plus, votre réputation diminuera.
 
 Le charisme influencera le comportement pendant et après l’*Intimidation*. En fonction du type d'*Intimidation*, cela ne sera pas que le **Charisme** qui sera testé.  
 Sachez cependant qu'il est possible que vous tuiez votre cible durant vos tentatives.
@@ -84,25 +88,32 @@ Sachez cependant qu'il est possible que vous tuiez votre cible durant vos tentat
 
 ### Charme
 
-Le *Charme* se base sur les qualités de votre personnage. 
-Plus ces dernières s'accordent avec la cible, plus il sera simple de la charmer.  
-Une personne charmée cherchera à gagner vos faveurs, et fera ce que vous lui demander.  
-En cas d'échec, vous ne risquez rien hormis de paraître ridicule aux yeux de votre cible, ou de la gêner.
+Le *Charme* se base sur les qualités de votre personnage. Plus ces dernières s'accordent avec la cible, plus il sera simple de la charmer.  
+En cas de <u>réussite</u>, elle sera *Charmée* : elle cherchera à gagner vos faveurs, et fera ce que vous lui demander.  
+En cas d'<u>échec</u>, vous ne risquez rien hormis de paraître ridicule aux yeux de votre cible, peut être même la gêner.
 
 Même charmée, elle aura cependant toujours son libre arbitre, si bien qu'il sera très difficile que lui demander de faire des choses qui iront à l'opposée de ses principes.  
-Elle peut également se désintéresse de vous, elle ne cherchera plus votre compagnie (vous conserverez toujours un contact avec elle).
+Elle peut également se désintéresse de vous, ce qui fait qu'elle ne cherchera plus à attirer votre attention (vous conserverez toujours une bonne relation avec elle).
 
 <br/><br/>
 
 ## Agilité
 
-L’agilité correspond à la facilité de mouvoir son personnage. Plus l’agilité est élevée, plus un personnage se déplacera facilement, sera discret et sera en capacité d'esquiver.
+L’**Agilité** correspond à la facilité de mouvoir son personnage. Plus l’**Agilité** est élevée, plus un personnage se déplacera facilement, sera discret et sera en capacité d'esquiver.
 
 ### Déplacement
+
+Le *Déplacement* rassemble toutes les actions destinées à déplacer votre personnage, que ce soit par la nage, le vol, ou toute autre forme un peu plus exotique (exemple : se balancer de branches en branches etc.).  
+
+Le déplacement se calcul :  
+$D=$
+
 
 <br/>
 
 ### Furtivité
+
+La *Furtivité* 
 
 <br/>
 
@@ -111,13 +122,13 @@ L’agilité correspond à la facilité de mouvoir son personnage. Plus l’agil
 Esquiver est une mécanique particulière dans Garrix.
 Toute attaque considérée comme étant non Hit Scan (dégâts instantanées (tous les projectiles très rapides et certains sorts psycho)) peuvent être évités.
 L’esquive annule les dégâts directs, et peut réduire de moitié les dégâts indirects.
-Vous et l’ennemi devront faire un test, le premier d’agilité, et le second de perception/force. La différence entre les deux jets déterminera l'action à la suite de la tentative d'esquive :
+Vous et l’ennemi devront faire un test, le premier d’**Agilité**, et le second de perception/force. La différence entre les deux jets déterminera l'action à la suite de la tentative d'esquive :
 
 | Dé               | Résultat                  |
 | ---------------- | ------------------------- |
 | Esquive > Action | Esquive réussie.          |
 | Esquive = Action | Esquive ratée.            |
-| Esquive < Action | Échec, état _vulnérable_. |
+| Esquive < Action | Échec, état _Vulnérable_. |
 
 - Un 20 garantie la réussite, avec *avantage*.
 - Un 1 est un échec garantie, avec *désavantage*.
@@ -127,10 +138,21 @@ Vous et l’ennemi devront faire un test, le premier d’agilité, et le second 
 
 ## Chance
 
-La chance désigne les chances que quelque chose (d’inhabituel) se passe. Cet attribut influence sur la réussite hasardeuse de votre personnage.
+La **Chance** désigne les chances que quelque chose (d’inhabituel) se passe. Cet attribut influence sur la réussite hasardeuse de votre personnage.
 
-Cet attribut fonctionne différemment des autres : à chaque test, le joueur peut déclarer qu'il teste sa chance. Sa chance sera alors ajouté à son attribut testé.
-L’action de tenter sa chance devra se suivre obligatoirement d’un test : il ne peut pas y avoir de réussite automatique.
+Cet attribut fonctionne différemment des autres : à chaque test, le joueur peut déclarer qu'il *teste sa chance*. Sa chance sera alors ajouté à son attribut testé.  
+L’action de *tenter sa chance* devra se suivre obligatoirement d’un test : il ne peut pas y avoir de réussite automatique.
+
+> [!Attention]  
+> Je ne suis pas sur de quelle présentation :
+
+|Test  |Condition  |Conséquence  |
+|---------|---------|---------|
+|Réussi|Sans l'ajoute de la **Chance**|Le joueur conservera son test. Il ne pourra cependant pas la tester pour le restant de la situation actuelle.|
+|Réussi|Grâce à l'ajout de la **Chance**|Le personnage réussi par chance son action. <br> Il ne gagne aucun bonus (avantage au prochain jet, connaissance supplémentaire etc.) due à sa réussite. <br/> Un repos court redonne un test (selon compétences), tandis qu'un repos long les redonne tous.|
+|Échec||Le joueur doit faire un test de chance à la suite d’un repos court pour pouvoir retenter sa chance plus tard.|
+
+> Ou
 
 Si le test réussi :
 
@@ -140,3 +162,5 @@ Si le test réussi :
 Si le joueur rate son lancer alors qu’il a tenté sa chance, il y a échec. Il devra faire un test de chance à la suite d’un repos court pour pouvoir retenter sa chance.
 
 <br/>
+
+# Maîtrises
