@@ -2,10 +2,10 @@
 - [Points principaux de Garrix](#points-principaux-de-garrix)
 - [Gameplay](#gameplay)
   - [Test](#test)
+    - [Combat](#combat)
     - [Action](#action)
-    - [En combat](#en-combat)
   - [Dialogue](#dialogue)
-  - [Combat](#combat)
+  - [Combat](#combat-1)
     - [Attaque physique](#attaque-physique)
     - [Attaque Cybernétique](#attaque-cybernétique)
   - [Mort](#mort)
@@ -37,23 +37,25 @@ Un test est à réaliser quand un personnage doit réaliser une action et que so
 Ainsi, un personnage devra faire un test si il veut atterrir son vaisseau. Cependant, si il maîtrise l'atterrissage et connaît son vaisseau, l'action sera automatiquement un succès.
 A l'inverse, si le personnage veut crocheter une porte, il devra faire dans tous les cas le test : son niveau de maîtrise ne fera que rendre le test plus simple à réaliser.
 
-### Action
+### Combat
 
-Le test pour réaliser une <u>action</u> se fait en **base 20**.  
- 
-
-<br/>
-
-### En combat
-
-En <u>combat</u>, les tests se font en **base 100**.  
+En <u>Combat</u>, les tests se font en **base 100**.  
 Voyez ces tests comme était le pourcentage de réussite de votre action : chacune à une difficulté fixe. A cela, on ajoute et/ou retire des points en fonctions des conditions, connaissances, maîtrises et circonstances.
 
 <u>Par exemple : </u>  
-Tirer sur un garde correspond a 50%. Le garde est proche de nous -> 90%. Le joueur vise son genou -> 85%. L'arme utilisée a été pillé sur le cadavre d'un enfant, la lentille est abîmée -> 65%.
-Le joueur devra faire un lancé compris entre 1 et 65 pour réussir son lancée. Plus son résultat sera proche de 1, mieux il réussira son action.
+Tirer sur un garde correspond a 50%. Le garde est proche de nous -> 90%. Le joueur vise son genou -> 85%. L'arme utilisée a été pillé, la lentille est abîmée -> 65%.
+Le joueur devra faire un lancé compris entre 1 et 65 pour réussir son lancée. Plus son résultat sera proche de 1, mieux il réussira son action. Un 1 est considéré comme une réussite critique (il fait un crit) tandis qu'un **100** correspond à un échec critique. 
+
+<br/>
+
+### Action
+
+Hors combat, les tests se réalisent en **base 20**.  
+ 
 
 <br/><br/>
+
+
 
 ## Dialogue
 
