@@ -5,9 +5,11 @@
     - [Combat](#combat)
     - [Action](#action)
   - [Dialogue](#dialogue)
-  - [Combat](#combat-1)
+  - [Combat Terrestre](#combat-terrestre)
     - [Attaque physique](#attaque-physique)
     - [Attaque Cybernétique](#attaque-cybernétique)
+  - [Combat Spatial](#combat-spatial)
+    - [Abordage](#abordage)
   - [Mort](#mort)
 - [Équipement](#équipement)
   - [Implant Neuronal](#implant-neuronal)
@@ -43,15 +45,15 @@ En <u>Combat</u>, les tests se font en **base 100**.
 Voyez ces tests comme était le pourcentage de réussite de votre action : chacune à une difficulté fixe. A cela, on ajoute et/ou retire des points en fonctions des conditions, connaissances, maîtrises et circonstances.
 
 <u>Par exemple : </u>  
-Tirer sur un garde correspond a 50%. Le garde est proche de nous -> 90%. Le joueur vise son genou -> 85%. L'arme utilisée a été pillé, la lentille est abîmée -> 65%.
-Le joueur devra faire un lancé compris entre 1 et 65 pour réussir son lancée. Plus son résultat sera proche de 1, mieux il réussira son action. Un 1 est considéré comme une réussite critique (il fait un crit) tandis qu'un **100** correspond à un échec critique. 
+Tirer sur un garde. Il est proche de vous (et carrure moyenne) -> 90%. Tu vises son genou -> 85%. L'arme utilisée a été pillé, elle est abîmée -> 65%.
+Le joueur devra faire un lancé compris entre 1 et 65 pour réussir son lancée. Plus son résultat sera proche de 1, mieux il réussira son action. Un 1 est considéré comme une réussite critique tandis qu'un **100** correspond à un échec critique. 
 
 <br/>
 
 ### Action
 
 Hors combat, les tests se réalisent en **base 20**.  
- 
+
 
 <br/><br/>
 
@@ -59,33 +61,57 @@ Hors combat, les tests se réalisent en **base 20**.
 
 ## Dialogue
 
-Pour dialoguer ou s'adresser à quelqu'un ou quelque chose, il faut que l'on puisse se comprendre.
+Pour dialoguer ou s'adresser à quelqu'un/quelque chose, il faut que l'on puisse se comprendre.
 Dans le futur, les traducteurs automatiques sont intégré à tous les systèmes neuronaux du marché. Ils permettent de traduire instantanément presque toutes les langues de la galaxie.
 L'accès au langue est néanmoins payant (ainsi que les mises à jours) et ces packs ne sont exempts d'erreur (de prononciation, de lexique). Les patois, expressions populaires (etc.) ne sont pas prises en charge. Enfin, toutes les langues ne sont pas forcément disponibles : dans ces cas là, le traducteur apprendra et s'améliorera.
 
 <br/><br/>
 
-## Combat
+## Combat Terrestre
 
 Un combat peut se déclencher à l'initiative des joueurs ou des PNJ. Dans le cas d'une attaque surprise, le camp qui l'initie profite d'un **avantage** lors de son premier tour de jeu.
-Un combat n'a pas forcément besoin de se terminer dans un bain de sang : en effet, il est toujours possible de convaincre ses ennemis de cesser le combat, ou bien s'enfuir.
+Un combat n'a pas forcément besoin de se terminer dans un bain de sang : en effet, il est toujours possible de convaincre ses ennemis de cesser le combat ou bien s'enfuir.
 
 ### Attaque physique
 
-Chaque attaque physique nécessite de viser, qu'importe si c'est une arme à distance ou de mêlée:
+Chaque attaque nécessite de viser. Une fois suffisamment de dégâts ont été infligés sur un membre, la victime subira un débuff : 
 
-- Bras : Désarme la cible.
-- Jambe : Ralenti (distance de déplacement/2), voir immobilise la cible.
-- Torse : Cible la plus grosse, endroit le plus simple à toucher, mais généralement le plus renforcé.
-- Tête & cou : dégât les plus élevé, peut causer aveuglement et confusions. Une attaque réussite qui réduit à 0 les PV garantisse le décès.
+|Membre |Debuff                                                                                             |
+|-------|---------------------------------------------------------------------------------------------------|
+|Bras   |Déséquipe l'objet qui était tenu par cette main.                                                   |
+|Jambe  |Ralenti (distance de déplacement/2) ; immobilise si aucun moyen de se déplacer.                    |
+|Torse  |Peut infliger des malus divers.                                                                    |
+|Tête   |causer aveuglement et confusions. Une attaque réussite qui réduit à 0 les PV garantisse le décès.  |
 
-Toucher les membres peut causer un _Démembrement_ (la décapitation est considéré comme tel). L'état démembré fait qu'il est impossible pour la victime d'utiliser ce membre à moins qu'il le rattache ou qu'un nouveau pousse.
+Toucher les membres peut causer un _Démembrement_ (la décapitation en est un).  
+L'état démembré fait qu'il est impossible pour la victime d'utiliser ce membre, à moins qu'il le rattache ou qu'un nouveau pousse.
 
-Il est également possible de viser des éléments spécifiques, tel qu'une arme, une armure, un éléments du décor (etc.).
+Il est également possible de viser des parties spécifiques de l'attirail du personnage, du décor ou encore d'un vaisseau (etc.).
 
 ### Attaque Cybernétique
 
-Les attaques _Cybernétique_ sont
+Les attaques _Cybernétique_ sont similaires aux attaques 
+
+<br/><br/>
+
+## Combat Spatial
+
+Les combats spatiaux (et aérien) fonctionnent comme dans le jeu vidéo FTL (Faster Than Light).  
+Chaque vaisseau est équipée de compartiments qui nécessitent un opérateur. Ces compartiments sont :
+
+|Compartiment |Fonction                                                                                                                                                                    |
+|-------------|---------------------------------------------------------------------------------------------------|
+|Pilotage     |Permet de piloter le vaisseau. Dans le cas où aucun opérateur est présent, certaines fonctions ne pourront plus être utilisées. En cas de mise hors service, le vaisseau partira également à la dérive.  |
+|Armement     |Rend possible l'utilisation de l'armement qui équipe votre vaisseau. Dans le cas où aucun opérateur est présent, les armes tireront automatiquement et sur des modules ennemis au hasard. En cas de mise hors service, le vaisseau ne pourra plus riposter.  |
+|Energie      |Génère l'énergie qui est consommée par votre vaisseau. En cas de mise hors service, les armes a énergie, ainsi que le bouclier et les réacteurs de saut seront inutilisables.|
+|Annexe       |Regroupe toutes les fonctions utilisable le poste de pilotage : sonar, radio, brouilleur, téléporteur... |
+|Réparation   |Répare votre vaisseau. Si un des compartiments subit des dégâts, ou est HS, accélère la réparation.|
+
+
+### Abordage
+
+Il est possible de profiter de la confusion pour aborder le vaisseau ennemi. 
+
 
 <br/><br/>
 
