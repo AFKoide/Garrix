@@ -7,9 +7,10 @@ Vous trouverez dans ce dépôt tout ce qu'il y a a savoir sur Garrix.
 
 Le dossier **Univers** regroupe les fichiers qui seront utiles pour la l'introduction et la compréhension de l'univers de Garrix.
 
-- [Règles](./Univers/Regles.md)
+- [Règles](./Univers/Bases.md)
 - [Histoire](./Univers/Histoire.md)
 - [Univers](./Univers/Univers.md)
+- [Personnage](Univers/Personnage.md)
 
 Le dossier **Ressources** regroupe les fichiers qui seront utiles pour le déroulement d'une partie de Garrix.
 
