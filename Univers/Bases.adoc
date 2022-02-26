@@ -1,0 +1,431 @@
+= Les Règles de Garrix
+Bienvenue dans les arcanes de Garrix, où tout vous sera expliqué. Bonne lecture.
+:description: Livre de règle du JDR Garrix
+:hardbreaks:
+:toc:
+
+//== Introduction
+
+== L'Espace
+
+=== Le Vaisseau
+
+Votre refuge dans vos vadrouilles interstellaires, votre vaisseau est une, et peut être votre seule maison.
+Votre vaisseau est une zone sure. Vous êtes maitre à bord 
+
+==== Se Déplacer
+
+L'espace est vaste. Si il fut un temps où on choisissait de se plonger dans un sommeil parfait pour se préserver des effets du temps jusqu'à ce que l'on arrive à destination, tout changea en 2XXX.
+Jusqu'alors, on avait théoriser que ces durées pouvaient être drastiquement réduit quand avec le procédé de bond spatiaux. Ce procédé consiste à empiler des "morceaux" du plan sur lesquels est l'espace devant le vaisseau et en se propulsant assez vite, les transpercer. Ainsi, on traverse une plus grande distance en autant de temps. Mais il manquait la source necessaire qui pourrait permettre cette prouesse ; une source soudaine, brute d'énergie sur demande...
+Ce n'est pas pour rien que l'on attribut la découverte du Savatas comme étant le point de départ du second âge d'Or.
+
+===== FTL
+
+Le principal moyen de locomotion dans l'espace est le *FTL*, abréviation de Faster Than Light. 
+Qu'importe la distance parcourue, un saut prend un certain temps à charger, et le déplacement est instantanée. 
+Tout saut laisse une marque, appelé *déchirure*, dans le tissu spatial. Ces marques peuvent être investigué pour déterminer quand a-t-elle été faite, et dans quelle direction. Cette déchirure se referme à mesure que le temps passe, et finira par disparaître.
+
+===== Interdiction
+
+Il y a quelques années de cela, une nouvelle utilisation du Savatas a été découverte. 
+Si certaines conditions sont respectées, le Savatas est capable de neutraliser ses effets. On appelle cette technologie l'*Interdiction*. 
+Un vaisseau entrant dans une zone sous cet effet sera sorti du FTL, et ne pourra pas bondir.
+D'abord exclusives aux forces de defences, certains groupes de la pègre réussirent à reverse engineering et à construire leur propre modèle.
+
+Le FTL n'est plus le moyen le plus sûr de se déplacer dans l'espace maintenant.
+
+==== Modules et Équipements
+
+Qu'est ce que votre vaisseau sans les gadgets et autres équipements que vous pouvez lui fixer dessus.
+
+En fonction de la coque & de la taille de votre vaisseau, il vous est possible d'y fixer des équipements, tel que des armes ou des utilitaires (rayon tracteur, catapulte etc.).
+
+Les modules sont des accessoires qui offrent des bonus passifs à votre vaisseau. 
+Leur nombre dépend cette fois ci du noyau, et il vous faudra une alimentation conséquente pour les avoir activé en permanence.
+
+==== Compartiments
+
+La structure d'un vaisseau est semblable à celle du jeu FTL (Faster Than Light).
+Un vaisseau est composé de plusieurs compartiments. Plus votre vaisseau est grand, plus il en aura, mais plus il vous faudra de membre d'équipage.
+
+[%autowidth.stretch]
+.Compartiments
+|===
+|Compartiment |Fonction
+|Pilotage|Permet de piloter le vaisseau. Dans le cas où aucun opérateur est présent, certaines fonctions ne pourront plus être utilisées. En cas de mise hors service, le vaisseau sera à la dérive.
+|Armement|Rend possible l'utilisation de l'armement qui équipe votre vaisseau. Dans le cas où aucun opérateur est présent, les armes viseront au hasard. En cas de mise hors service, le vaisseau ne pourra plus riposter.
+|Energie|Génère l'énergie qui est consommée par votre vaisseau. En cas de mise hors service, les armes a énergie, ainsi que le bouclier et le réacteur de saut seront inutilisables.
+|Réparation|Gère la réparation de votre vaisseau. Si un des compartiments subit des dégâts, ou est HS, accélère la réparation. La salle se réparera en priorité.
+|Annexe|Regroupe toutes les fonctions utilisable le poste de pilotage : brouilleur, téléporteur... Tous ces éléments sont dans la même pièce, sauf le téléporteur, mais ne nécessite qu'un seul opérateur pour les utiliser.
+|===
+
+* Brouilleur :
+Empêche les verrouillages automatiques (ce qui comprend le verrouillage de missiles, la téléportation etc.). Fonctionne sous forme de pulse.
+* Téléporteur :
+Permet de se retrouver instantanément à des coordonnées prédéfinies. Certains modèles permettent même de faire le chemin inverse.
+* Radar :
+Détection passive des menaces et objets se trouvant dans la zone.
+* Radio :
+Écoute passivement le vide spatial, en espérant capter des signaux. Les messages sont le plus souvent chiffrés. Vous pouvez également émettre (mais faites attention, le vide a des oreilles).
+
+==== Energie
+
+L'énergie est une ressource très importante pour votre vaisseau. Plus vous avez de modules et de compartiments, plus il vous en faudra.
+Sans énergie pour une longue durée, votre vaisseau n'est plus en capacité de garantir votre survie, ce qui cause l'incapacité de l'équipage dans un premier temps, puis la mort par asphyxie. La durée dépend de la taille et de l'équipage du vaisseau.
+
+L'énergie se recharge d'un certain montant au début de chaque tour. Ce montant dépend du générateur et de sa taille.
+
+* Consommer :
+-Recharge le bouclier (1 énergie pour 10 bouclier).
+-Utiliser une capacité (voir la table).
+-Se déplacer.
+-Bondir.
+-Tirer avec des armes énergétiques.
+
+* Recharger :
+-Début de tour.
+-Désactiver une capacité ou un module.
+-Surcharger le noyau.
+-Voler de l'énergie.
+
+===== Surcharge
+
+En supprimant les sécurités du noyau, il vous est possible de surcharger votre générateur. 
+Tant que ce dernier ne dépasse le seuil critique, vous doublez votre production d'énergie, la capacité de votre bouclier et pouvez saturer vos protocoles pour rendre plus difficile les tentatives de piratages. Un champ EMP est également généré par l'accélération de la production, ce qui empêche toute tentative d'intrusion à l'aide du téléporteur, et rend plus difficile le verrouillage.
+Lors de l'enclenchement de la surcharge, le volume d'énergie produit sonnera tous dispositifs électroniques dans votre vaisseau, ce qui demandera un redémarrage de chacun de ces modules. 
+
+Dépasser le seuil critique de la surcharge endommagera de façon permanente votre générateur, impactant la génération d'énergie et exposant votre vaisseau à un accident majeur si cela se reproduisait. 
+
+A l'arret de la surcharge, votre générateur purge ses condensateurs brutalement, ce qui cause une énorme EMP qui vous impact vous et tous ceux autours de vous. Plus votre générateur est puissant, plus cette dernière aura d'effet.
+Il faudra redémarrer très vite car il est probable que les forces de sécurités de la région détecte le pic d'énergie.
+
+Comme dit en introduction, la surcharge est nécessite que l'on fasse des modifications illégales et dangereuses sur le générateur. Il existe sur le marché noir des générateurs pret à l'emploi, mais dans la majorité des cas, ce sera à votre pilote/mécano de le faire. 
+
+== Le Personnage
+
+=== La Mort
+
+Un personnage ayant 0 PV passe à l'état **Critique**.
+Dans cet état, s'il n'a pas pu être sauvé à temps par ses coéquipiers, qu'il est exécuté, ou qu'il n'a pas pu redémarrer son système/coeur, il décédera.
+
+Cependant, la mort n'est pas l'ultime destination, ce n'est qu'une étape de la vie !
+
+- Si il a souscrit à une assurance vie de son vivant ;  
+Dans ce cas, une somme d'argent sera directement prélevé sur son compte. Les objets qui se trouvaient sur son cadavre resteront dessus, mais pourront lui être "restitué" seulement s'il les a assuré.
+Si il est équipé d'un **Implant Neuronal**, il ne souffrira d'aucune amnésie puisque ses souvenirs seront transféré dans son nouveau corps.
+
+- Si c'est une machine ;  
+Dans ce cas, il suffit de connecter son noyau de personnalité à n'importe quel appareil.
+**Attention** : plus un noyau de personnalité reste longtemps sans alimentation, plus sa RAM se vide, ce qui résulte par la _perte des souvenirs et expériences récentes_ (car non gravé).
+Sachez cependant que la destruction d'un robot contrôlé à distance n'entraînera aucun dégâts significatif à son contrôleur.
+
+- Sinon ;  
+Fin de la partie pour ce personnage.
+Il pourra léguer ses connaissances et son expérience sous forme de Mémoires (qui prendront la forme que le joueur souhaite) au nouveau personnage.
+
+Votre droit à la réanimation peut être révoqué selon votre relation avec les différences forces. Vous n'etes qu'un pion, et les joueurs détestent que ces derniers n'en fasses qu'à leur tête.
+Ainsi, une entreprise avec qui vous entretenez de mauvaises relations pourra vous faire réapparaître en plein milieu d'un goulag, ou tout simplement ne pas accéder à votre demande pour ensuite envoyer votre empreinte de mort par mail à vos collègues.
+
+Un bannissement total du système de réanimation peut être jugé par le gouvernement (en accord avec le texte de loi statuant sur la valeur de la vie).
+
+=== Attributs Primaires
+
+Les *Attributs Primaires* sont les fondations de votre personnage.
+Aux nombres de 7, il s’agit de votre Endurance, **Force**, **Intelligence**, **Perception**, **Charisme**, **Agilité** & **Chance**.
+
+Vous disposerez d'un nombre points de potentiels décidé à la création de votre personnage que vous devrez répartir entre ces 7 attributs primaires.  
+La fourchette de répartition va de 0 à 10, mais certains talents et races peuvent la changer.  
+Une fois la partie commencée, il vous sera toujours possible de changer la disposition, mais sous certaines conditions.
+
+La disposition de point devra faire preuve de logique vis à vis du background de votre personnage, de son métier et de ses ambitions.
+
+==== Endurance
+
+L'**Endurance** est l'*Attribut* qui caractérise la résistance, la robustesse et le tempérament de votre personnage.  
+Plus il est élevé, plus votre personnage sera capable d'encaisser, aussi bien psychologiquement que physiquement. 
+
+==== Force
+
+La **Force** mesure la puissance physique de votre personnage.
+
+==== Intelligence
+
+L'**Intelligence** est
+
+==== Perception
+
+==== Charisme
+
+Le **Charisme** défini vos interactions avec les autres.  
+
+===== Persuasion
+
+La *Persuasion* ne fonctionne qu’avec les créatures dotées d’intelligence.  
+En cas de réussite, vous parvenez à convaincre votre interlocuteur, et se pliera à votre demande formulée.  
+En cas d'échec, vous ne risquez que très peu.
+
+Le **Charisme** rend les persuasions plus simples.
+
+===== Acheter
+
+*Acheter* (ou **Corrompre**) une personne revient à *Persuader*, mais en échange d'un petit pécule d'argent.  
+Cette action est plus difficile à réaliser contre des individus ayant un fort sens morale, et peut même s'avérer extrêmement cher si l'individu sais marchander.  
+En cas d'échec, la cible peut augmenter la somme demandée, ou tout simplement ne plus vouloir interagir avec vous (pour le moment).  
+De plus, il est également possible que votre réputation diminue auprès de cette personne, et possiblement auprès de sa faction. 
+
+Le **Charisme** diminuera le montant nécessaire, et permettra de corrompre plus facilement personnes et entités.
+
+===== Intimidation
+
+Se basant sur votre apparence et votre notoriété, l’*Intimidation* force, par votre aura (ou vos poings), la cible à faire ce que vous lui dites.  
+En cas de réussite, elle vous sera *Soumise* : elle sera effrayé par vous et répondront à toutes vos demandes. A chacune d'elle, il fera néanmoins un test d'**Endurance** pour essayer de se ressaisir. Vous pourrez continuer à l'**Intimider** pour le garder sous votre contrôle et rendre ses jets de plus en plus difficiles.
+En cas de réussite de son jet, la cible peut devenir violente, s'enfuir et/ou tout simplement ne plus vouloir interagir avec vous.  
+De plus, votre réputation diminuera.
+
+Le charisme influencera le comportement pendant et après l’*Intimidation*. En fonction du type d'*Intimidation*, cela ne sera pas que le **Charisme** qui sera testé.  
+Sachez cependant qu'il est possible que vous tuiez votre cible durant vos tentatives.
+
+===== Charme
+
+Le *Charme* se base sur les qualités de votre personnage. Plus ces dernières s'accordent avec la cible, plus il sera simple de la charmer.  
+En cas de réussite, elle sera *Charmée* : elle cherchera à gagner vos faveurs, et fera ce que vous lui demander.  
+En cas d'échec, vous ne risquez rien hormis de paraître ridicule aux yeux de votre cible, peut être même la gêner.
+
+Même charmée, elle aura cependant toujours son libre arbitre, si bien qu'il sera très difficile que lui demander de faire des choses qui iront à l'opposée de ses principes.  
+Elle peut également se désintéresse de vous, ce qui fait qu'elle ne cherchera plus à attirer votre attention (vous conserverez toujours une bonne relation avec elle).
+
+==== Agilité
+
+L’**Agilité** correspond à la facilité de mouvoir son personnage. Plus l’**Agilité** est élevée, plus un personnage se déplacera facilement, sera discret et sera en capacité d'esquiver.
+
+===== Déplacement
+
+Le *Déplacement* rassemble toutes les actions destinées à déplacer votre personnage, que ce soit par la nage, le vol, ou toute autre forme un peu plus exotique (exemple : se balancer de branches en branches etc.).
+
+===== Furtivité
+
+La *Furtivité* caractérise la facilité pour laquelle vous pouvez vous faire oublier.
+Se déplacer sans bruit, se fondre dans une foule, subtiliser une carte de crédit (etc.) sont des actions qui mettront votre *Furtivité* à rude épreuve.
+
+===== Esquiver
+
+Esquiver est une mécanique particulière dans Garrix.
+Toutes attaques considérées comme étant non Hit-Scan (dégâts instantanées & projectiles très rapides) peuvent être évitées. Cependant, il faut que votre personnage soit en capacité d'esquiver, ou soit préparer à le faire.
+L’esquive annule les dégâts directs, et peut réduire de moitié les dégâts indirects.
+Vous et l’ennemi devront faire un test, le premier d’**Agilité**, et le second de perception/force. La différence entre les deux jets déterminera l'action à la suite de la tentative d'esquive :
+
+.Esquive
+|===
+| Dé|Résultat
+| Esquive > Action | Esquive réussie.          
+| Esquive = Action | Esquive ratée.            
+| Esquive < Action | Échec, état _Vulnérable_. 
+|===
+Le calcul comprend les valeurs extrêmes.
+
+-Un 20 garantie la réussite, avec *avantage*.
+-Un 1 est un échec garantie, avec *désavantage*.
+
+==== Chance
+
+La **Chance** désigne les chances que quelque chose se passe. Cet attribut influence sur la réussite hasardeuse de votre personnage.
+
+Cet attribut fonctionne différemment des autres : à chaque test, le joueur peut déclarer qu'il *teste sa chance*. Sa chance sera alors ajouté à son attribut testé.  
+L’action de *tenter sa chance* devra se suivre obligatoirement d’un test : il ne peut pas y avoir de réussite automatique.
+
+> Je ne suis pas sur de quelle présentation
+
+.Esquive
+|===
+|Test  |Condition  |Conséquence
+|Réussi|Sans l'ajoute de la **Chance**|Le joueur conservera son test. Il ne pourra cependant pas la tester pour le restant de la situation actuelle.
+|Réussi|Grâce à l'ajout de la **Chance**|Le personnage réussi par chance son action. <br> Il ne gagne aucun bonus (avantage au prochain jet, connaissance supplémentaire etc.) due à sa réussite.  Un repos court redonne un test (selon compétences), tandis qu'un repos long les redonne tous.
+|Échec||Le joueur doit faire un test de chance à la suite d’un repos court pour pouvoir retenter sa chance plus tard.
+|===
+
+> Ou
+
+Si le test réussi :
+
+- Grâce à l’ajout de la chance, alors le personnage réussira par chance son action. Il réussira son action, mais ne gagnera aucun bonus (avantage au prochain jet, connaissance supplémentaire etc.) due à sa réussite. Un repos court redonne un test, tandis qu'un repos long les redonne tous.
+- Sans l'ajout de la chance, alors le joueur conservera son test. Il ne pourra cependant pas la tester pour le restant de la situation actuelle.
+
+Si le joueur rate son lancer alors qu’il a tenté sa chance, il y a échec. Il devra faire un test de chance à la suite d’un repos court pour pouvoir retenter sa chance.
+
+
+
+=== Maîtrises
+
+Un personnage doit savoir pour pouvoir faire. C'est l'objectif des **Maîtrises**. Elles ont pour but de faciliter la réussite d'action.
+
+Dans Garrix, chaque **Maîtrise** a 3 niveaux :
+* 0 - le personnage ne sait rien, il ne peut donc pas fournir d'aide ou de connaissance. Si le test n'est pas fait sur la chance, cela résultera en un échec garantie.
+* 1 - le personnage connaît, mais ne sait pas ; il peut tout de même essayer, ce qui donne lieu à un test.
+* 2 - le personnage est expérimenté, il a donc un avantage pour effectuer une action.
+* 3 - le personnage maîtrise son sujet : il est garantie de réussir dans les conditions normales, et aura un avantage dans des situations particulières.
+
+Un personnage accumulera des points de maîtrises en fonction de ses réussites et de ses échecs. Arrivé à un certain palier, il gagnera un rang. Ces valeurs sont :
+* 0 - 50 ; Non acquis.
+* 50 - 200 ; Acquis.
+* 200 - 400 ; Expérimenté.
+* > 600 ; Maîtrise
+
+==== Pilotage
+
+==== Crochetage
+
+==== Armes
+
+===== Cinétique
+
+===== Energie
+
+===== Lourde
+
+==== Mécanique (et Entretient)
+
+==== Investigation
+
+==== Psychologie
+
+==== Piratage
+
+==== Tache Ménagère
+
+==== Bourse
+
+== Équipement
+
+=== Implant Neuronal
+
+Relique de la Première Ère, l'Implant Neuronal s'installe directement dans le cortex cérébrale de la personne.  
+C'est grâce à lui que vous pouvez transférer vos souvenirs ou vos ordres aux machines environnantes, que les hackers peuvent plonger dans les machines, etc.
+
+
+
+== Tests
+
+Un test est à réaliser quand un personnage doit réaliser une action et que, soit son niveau de maîtrise n'est pas assez haut, soit que cette action comporte une part de chance.  
+
+Ainsi, un personnage devra faire un test si il veut atterrir un vaisseau qu'il ne connaît pas ; à l'inverse, cette action sera un succès automatique.  
+A l'inverse, si le personnage veut crocheter une porte, il devra dans tous les cas le faire ; son niveau de maîtrise ne fera que rendre le test plus simple.
+
+=== Combat
+
+En Combat, les tests se font en **base 100**.  
+Voyez ces tests comme était le pourcentage de réussite de votre action. Cet pourcent varie positivement et/ou négativement en fonction des conditions, connaissances, maîtrises, ainsi que de votre environnement direct.
+
+Par exemple :   
+Tirer sur un garde. Il est proche de vous (et carrure moyenne) -> 90%. Tu vises son genou -> 85%. L'arme utilisée a été pillé, elle est abîmée -> 65%.  
+Le joueur devra faire un lancé compris entre 1 et 65 pour réussir son lancée. Plus son résultat sera proche de 1, mieux il réussira son action. Un **1** est considéré comme une réussite critique tandis qu'un **100** correspond à un échec critique. 
+
+=== Action
+
+Hors combat, les tests se réalisent en **base 20**.
+
+
+
+=== Dialogue
+
+Pour dialoguer ou s'adresser à quelqu'un/quelque chose, il faut que l'on puisse se comprendre.  
+Dans le futur, les traducteurs automatiques sont intégré à tous les systèmes neuronaux du marché. Ils permettent de traduire instantanément presque toutes les langues de la galaxie.  
+L'accès au langue est néanmoins payant (ainsi que les mises à jours) et ces packs ne sont exempts d'erreur (de prononciation, de lexique). Les patois, expressions populaires (etc.) ne sont pas prises en charge. Enfin, toutes les langues ne sont pas forcément disponibles : dans ces cas là, le traducteur apprendra et s'améliorera.
+
+== Le Hacking
+
+== La "Magie"
+
+== Le Combat
+
+Un combat peut se déclencher à l'initiative des joueurs ou des PNJ. Dans le cas d'une attaque surprise, le camp qui l'initie profite d'un **avantage** lors de son premier tour de jeu.  
+Un combat n'a pas forcément besoin de se terminer dans un bain de sang : en effet, il est toujours possible de convaincre ses ennemis de cesser le combat ou bien s'enfuir.
+
+=== Arme
+
+
+
+==== Physique
+
+Les armes Physique englobe les armes à munitions cinétiques et les armes de mêlée utilisant principalement la force pour faire des dégâts.
+
+===== Arme Cinétique à Distance
+
+Les armes à munitions cinétiques sont les munitions les plus courantes et constantes de Garrix. Elles ne traversent pas les boucliers mais endommagent directement les armures, peuvent être tiré dans le vide, et ont une pénétration variable.
+Une fois tiré, la munition est consommée.
+Il est possible d’utiliser des munitions infusées : fonctionnant comme des munitions standards, elles font ¼ de dégâts en plus de l’élément tiré. Elles sont cependant très chères et rares.
+
+La consommation de munition varie en fonction de l’arme et de ses accessoires. Ces armes peuvent souffrir d'accident durant la mise à feu, aussi appelé **Enrayage**.
+Lorsqu'une arme s'enraie, il est impossible de tirer au risque d'endommager l'arme et son utilisateur : il faut alors forcer la balle mal chambrée, changer d'équipement, ou jouer sa chance en pressant sur la détente.
+
+Un rechargement prend entre un tour et une réaction selon le rang de maîtrise du type d'arme.
+
+===== Arme Cinétique au Corps à Corps
+
+Une arme de mêlée physique fonctionne comme on l'imagine : on tape et ca fait mal.
+
+
+
+==== Energie
+
+Les armes énergétiques sont les équivalents high-techs des **Cinétiques**.
+Ces armes sont cependant plus rare et plus cher que leurs équivalent énergétique. Elles ont cependant l'avantage d'être extrêmement fiables.
+
+===== Arme Énergétique à Distance
+
+Au lieu de tirer des balles, un fusil à énergie projette des lasers qui touche la cible.
+Les fusils à énergétiques n’utilisent pas de munitions : elles consomment de l’énergie stocker dans des batteries. Ainsi, elles ne peuvent être recharger qu’une fois la batterie vide, ce qui leur permettent de tirer plus longtemps pour un rechargement aussi rapide.
+Elles ont cependant la fâcheuse tendance de surchauffer. Une surchauffe peut, si trop importante et soudaine, endommager l’arme et son porteur. C’est pourquoi des sécurités furent installer, rendant l’arme inutilisable le temps qu’elle refroidisse.
+
+Les projectiles énergétiques n'ont aucune pénétration mais une portée infinie et une balistique droite. Ils causent des dégâts importants au boucliers énergétique
+Une arme de cette catégorie peut être utilisée sous l’eau et dans le vide, mais supporte mal la brume.
+
+Toutes les armes lasers ont un mode **Overclock**. Ce mode fait sauter les sécurités liées à la puissance des tirs et la température de l’arme : l’arme fera ainsi plus de dégâts et ne s’arrêtera pas même si la surchauffe est atteinte. En échange de cela, la batterie se consommera plus vite et en permanence, et la température endommagera son utilisateur et l’arme.
+Ce mode peut avoir été installé par le constructeur, ou piraté.
+Dans les deux cas, il est possible que l’arme se verrouille suite à la désactivation du mode. Si l’arme a été « officielle » trafiquée, un rapide coup de fil auprès du SAV vous la déverrouillera. Sinon… le piratage sera votre seul recours dans le feu de l’action (sachez toutefois que si le test de piratage échoue, il sera plus difficile de retenter).
+Un repos long déverrouillera votre arme.
+
+A la différence des armes Cinétiques, les armes **Énergétiques** doivent être soit, rechargé (action active, prend entre un et plusieurs tours) soit, refroidie (passif, prend plus longtemps que la normal). Le climat influence le nombre de tir avant la surchauffe, et le temps nécessaire pour le refroidissement.
+
+#### Arme Énergétique au Corps à Corps
+
+Une arme de mêlée énergétique est similaire au _Physique_, à quelques gimmick près. En effet, les armes de mêlée (CaC à partir de maintenant) énergétique peuvent être activé (consomme une action bonus), ce qui change ses propriétés.
+
+
+
+## Armure
+
+Il existe deux différents types de protections :
+
+### Balistique
+
+Les protections balistiques (ou armure), tel que les gilets pare-balles, réduisent de façon passive les dégâts que vous subissez.
+Sachez cependant que certains effets de statuts ignoreront vos protections.
+
+
+
+### Énergétique
+
+Les protections énergétiques (ou bouclier), augmente la difficulté pour vous toucher.
+Ainsi, la présence d’un bouclier fera en sorte qu’une difficulté de 2 passera a 5, voir 7 si le bouclier est perfectionné.
+Les protections énergétiques seront plus sensibles aux armes expérimentales, ce qui risque de réduire l’effet des boucliers.
+
+
+
+## Consommables
+
+Les Consommable sont généralement les objets à usage unique, qui peuvent être utilisé en combat, et que l’on doit réapprovisionner (exception, des munitions).
+
+== Après Propos
+
+=== Monnaie
+
+==== Le Becque
+
+La monnaie dans Garrix s'appelle le _Becque_. Due à la taille de la galaxie, elle souffre de fluctuation énorme entre les différents systèmes et planètes.
+Cette monnaie est universelle, certains systèmes ont tout de même crée des monnaies uniques.
+
+
+
+==== La Savatas
+
+La _Savatas_ est une fine poudre verte qui est utilisée comme carburant dans les moteur à bond. Rare, elle est également utilisée par les contrebandiers comme monnaie parallèle au _Becque_ car intraçable, et sa rareté garantie une très faible fluctuation. Nécessaire elle peut également être consommée pour booster la plupart des machines et consommables létaux.
