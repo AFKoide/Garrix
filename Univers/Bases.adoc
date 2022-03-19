@@ -15,22 +15,25 @@ Votre vaisseau est une zone sure. Vous êtes maitre à bord
 
 ==== Se Déplacer
 
-L'espace est vaste. Si il fut un temps où on choisissait de se plonger dans un sommeil parfait pour se préserver des effets du temps jusqu'à ce que l'on arrive à destination, tout changea en 2XXX.
-Jusqu'alors, on avait théoriser que ces durées pouvaient être drastiquement réduit quand avec le procédé de bond spatiaux. Ce procédé consiste à empiler des "morceaux" du plan sur lesquels est l'espace devant le vaisseau et en se propulsant assez vite, les transpercer. Ainsi, on traverse une plus grande distance en autant de temps. Mais il manquait la source necessaire qui pourrait permettre cette prouesse ; une source soudaine, brute d'énergie sur demande...
+L'espace est vaste. Si il fut un temps où on choisissait de se plonger dans un sommeil parfait pour s'épargner des effets du temps, cette technique est depuis révolue.
+
+Jusqu'alors, on avait théoriser que ces durées pouvaient être drastiquement réduit quand avec le procédé de bonds spatiaux. 
+Ce procédé consiste à "plier" des "morceaux" du plan appelé espace puis de les "empiler" avant de propulser le vaisseau avec une force suffisante pour les transpercer. Ainsi, on traverse une plus grande distance en autant de temps. 
+Ce procédé n'étaient encore qu'une théorie car il ne manquait qu'une chose : une source soudaine, brute d'énergie sur demande...
+
 Ce n'est pas pour rien que l'on attribut la découverte du Savatas comme étant le point de départ du second âge d'Or.
 
 ===== FTL
 
-Le principal moyen de locomotion dans l'espace est le *FTL*, abréviation de Faster Than Light. 
-Qu'importe la distance parcourue, un saut prend un certain temps à charger, et le déplacement est instantanée. 
-Tout saut laisse une marque, appelé *déchirure*, dans le tissu spatial. Ces marques peuvent être investigué pour déterminer quand a-t-elle été faite, et dans quelle direction. Cette déchirure se referme à mesure que le temps passe, et finira par disparaître.
+Le principal moyen de locomotion dans l'espace est le *FTL*, abréviation de *Faster Than Light*. 
+Qu'importe la distance parcourue, un saut nécessite un certain temps pour se préparer, puis le déplacement est instantanée. 
+Tout saut laisse une marque, appelé *déchirure*, dans le tissu spatial. Ces marques peuvent être investigué. Une déchirure se referme à mesure que le temps passe, et finira par disparaître.
 
 ===== Interdiction
 
 Il y a quelques années de cela, une nouvelle utilisation du Savatas a été découverte. 
 Si certaines conditions sont respectées, le Savatas est capable de neutraliser ses effets. On appelle cette technologie l'*Interdiction*. 
-Un vaisseau entrant dans une zone sous cet effet sera sorti du FTL, et ne pourra pas bondir.
-D'abord exclusives aux forces de defences, certains groupes de la pègre réussirent à reverse engineering et à construire leur propre modèle.
+Un vaisseau entrant dans une zone *interdite* sera sortie de FTL, et ne pourra pas bondir tant qu'il se trouvera dans la zone.
 
 Le FTL n'est plus le moyen le plus sûr de se déplacer dans l'espace maintenant.
 
@@ -92,14 +95,15 @@ L'énergie se recharge d'un certain montant au début de chaque tour. Ce montant
 
 En supprimant les sécurités du noyau, il vous est possible de surcharger votre générateur. 
 Tant que ce dernier ne dépasse le seuil critique, vous doublez votre production d'énergie, la capacité de votre bouclier et pouvez saturer vos protocoles pour rendre plus difficile les tentatives de piratages. Un champ EMP est également généré par l'accélération de la production, ce qui empêche toute tentative d'intrusion à l'aide du téléporteur, et rend plus difficile le verrouillage.
-Lors de l'enclenchement de la surcharge, le volume d'énergie produit sonnera tous dispositifs électroniques dans votre vaisseau, ce qui demandera un redémarrage de chacun de ces modules. 
+Lors de l'enclenchement de la surcharge, le volume d'énergie produit sonnera tous dispositifs électroniques dans votre vaisseau, ce qui demandera un redémarrage manuel de chacun de ces modules. 
 
 Dépasser le seuil critique de la surcharge endommagera de façon permanente votre générateur, impactant la génération d'énergie et exposant votre vaisseau à un accident majeur si cela se reproduisait. 
 
-A l'arret de la surcharge, votre générateur purge ses condensateurs brutalement, ce qui cause une énorme EMP qui vous impact vous et tous ceux autours de vous. Plus votre générateur est puissant, plus cette dernière aura d'effet.
-Il faudra redémarrer très vite car il est probable que les forces de sécurités de la région détecte le pic d'énergie.
+A l'arret de la surcharge, votre générateur purge ses condensateurs brutalement, ce qui cause une énorme EMP qui vous touchera vous et tous ceux autours de vous. Plus votre générateur est puissant, plus cette dernière sera importante.
+Il faudra redémarrer au plus vite car il est fort probable que les forces de sécurités détecte le pic d'énergie.
 
-Comme dit en introduction, la surcharge est nécessite que l'on fasse des modifications illégales et dangereuses sur le générateur. Il existe sur le marché noir des générateurs pret à l'emploi, mais dans la majorité des cas, ce sera à votre pilote/mécano de le faire. 
+Comme dit en introduction, la surcharge est nécessite que l'on fasse retire les sécurités de *matériel propriétaire*, or, selon l'article premier de la loi intergalactique, des modifications sont interdites et peuvent vous valoir une condamnation de catégorie IV.
+En plus d'être fortement illégal, une modification peut s'avérer couteuse et dangereuse, mais surtout très difficile à réaliser. Il existe sur le marché noir des générateurs pret à l'emploi, mais dans la majorité des cas, ce sera à votre pilote/mécano de le faire. 
 
 == Le Personnage
 
@@ -133,11 +137,9 @@ Un bannissement total du système de réanimation peut être jugé par le gouver
 Les *Attributs Primaires* sont les fondations de votre personnage.
 Aux nombres de 7, il s’agit de votre Endurance, **Force**, **Intelligence**, **Perception**, **Charisme**, **Agilité** & **Chance**.
 
-Vous disposerez d'un nombre points de potentiels décidé à la création de votre personnage que vous devrez répartir entre ces 7 attributs primaires.  
-La fourchette de répartition va de 0 à 10, mais certains talents et races peuvent la changer.  
+Vous disposerez d'un nombre points de potentiels décidé à la création de votre personnage. Vous choisirez comment les répartir en fonction d'une fourchette, allant de 0 à 10, et de l'histoire + métier de votre personnage.
+Certains métiers ainsi que races peuvent définir des points fixes ainsi que modifier la fourchette. 
 Une fois la partie commencée, il vous sera toujours possible de changer la disposition, mais sous certaines conditions.
-
-La disposition de point devra faire preuve de logique vis à vis du background de votre personnage, de son métier et de ses ambitions.
 
 ==== Endurance
 
@@ -146,13 +148,15 @@ Plus il est élevé, plus votre personnage sera capable d'encaisser, aussi bien 
 
 ==== Force
 
-La **Force** mesure la puissance physique de votre personnage.
+La **Force** mesure la puissance physique de votre personnage. 
 
 ==== Intelligence
 
-L'**Intelligence** est
+L'**Intelligence** n'est pas à raccourcir avec une mesure du QI, bien que ce paramètre rentre en compte. Ainsi, il défini les capacités de réflexions, discernements et de compréhension de votre personnage.
 
 ==== Perception
+
+La *Perception* détermine la 
 
 ==== Charisme
 
