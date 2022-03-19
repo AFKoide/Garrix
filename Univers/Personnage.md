@@ -1,7 +1,9 @@
+- [Création du personnage](#création-du-personnage)
 - [Attributs Primaires](#attributs-primaires)
   - [Endurance](#endurance)
   - [Force](#force)
   - [Intelligence](#intelligence)
+  - [Perception](#perception)
   - [Charisme](#charisme)
     - [Persuasion](#persuasion)
     - [Corrompre](#corrompre)
@@ -13,6 +15,26 @@
     - [Esquiver](#esquiver)
   - [Chance](#chance)
 - [Maîtrises](#maîtrises)
+  - [Pilotage](#pilotage)
+  - [Crochetage](#crochetage)
+  - [Armes](#armes)
+    - [Cinétique](#cinétique)
+    - [Energie](#energie)
+    - [Lourde](#lourde)
+  - [Mécanique (et Entretient)](#mécanique-et-entretient)
+  - [Investigation](#investigation)
+  - [Psychologie](#psychologie)
+  - [Piratage](#piratage)
+  - [Tache Ménagère](#tache-ménagère)
+  - [Bourse](#bourse)
+
+# Création du personnage
+
+Ce chapitre s'attarde sur tout ce qu'il y a à savoir au moment de créer son personnage.  
+
+Garrix se veut facile à prendre en main, c'est pourquoi il reprend beaucoup d'éléments d'autres JDR, tel que DnD5, Fallout ou encore Shadowrun.
+
+
 
 # Attributs Primaires
 
@@ -21,11 +43,11 @@ Aux nombres de 7, il s’agit de votre **[Endurance](#endurance)**, **[Force](#f
 
 Vous disposerez de Nombre points de potentiels à répartir entre les 7 attributs primaires disponible lors de la création de votre personnage.  
 La fourchette de répartition va de 0 à 10, mais certains talents et races peuvent la changer.  
-Une fois la partie commencée, il sera toujours possible de changer votre disposition.
+Une fois la partie commencée, il est possible de changer votre disposition, mais sous certaines conditions.
 
 Sachez également que l'histoire de votre personnage, sa race et son métier influenceront la répartition des points d'attributs primaires, ainsi que les maîtrises. Ces derniers ne pourront pas être déplacé, ou modifier.
 
-Sachez également que votre personnage pourra débloquer recevoir des points d'attributs permanents supplémentaires au cours de l’aventure. Ces points sont fixes.
+Sachez également que votre personnage pourra recevoir des points d'attributs supplémentaires fixes au cours de l’aventure.
 
 <br/>
 
@@ -45,6 +67,12 @@ La **Force** est
 ## Intelligence
 
 L'**Intelligence** est
+
+<br/>
+
+## Perception
+
+
 
 <br/>
 
@@ -103,11 +131,7 @@ L’**Agilité** correspond à la facilité de mouvoir son personnage. Plus l’
 
 ### Déplacement
 
-Le *Déplacement* rassemble toutes les actions destinées à déplacer votre personnage, que ce soit par la nage, le vol, ou toute autre forme un peu plus exotique (exemple : se balancer de branches en branches etc.).  
-
-Le déplacement se calcul :  
-$D=$
-
+Le *Déplacement* rassemble toutes les actions destinées à déplacer votre personnage, que ce soit par la nage, le vol, ou toute autre forme un peu plus exotique (exemple : se balancer de branches en branches etc.).
 
 <br/>
 
@@ -132,7 +156,7 @@ Vous et l’ennemi devront faire un test, le premier d’**Agilité**, et le sec
 
 - Un 20 garantie la réussite, avec *avantage*.
 - Un 1 est un échec garantie, avec *désavantage*.
-- L'égalité comprend les valeurs extrêmes.
+- Le calcul comprend les valeurs extrêmes.
 
 <br/><br/>
 
@@ -164,3 +188,54 @@ Si le joueur rate son lancer alors qu’il a tenté sa chance, il y a échec. Il
 <br/>
 
 # Maîtrises
+
+Un personnage doit savoir pour pouvoir faire. C'est l'objectif des **Maîtrises**.  
+Dans Garrix, chaque **Maîtrise** a 3 niveaux :
+* 0 - le personnage ne sait rien, il ne peut donc pas fournir d'aide ou de connaissance. Si le test n'est pas fait sur la chance, cela résultera en un échec garantie.
+* 1 - le personnage connait, mais ne sait pas ; il peut tout de même essayer, ce qui donne lieu à un test.
+* 2 - le personnage est expérimenté, il a donc un avantage pour effectuer une action.
+* 3 - le personnage maitrise son sujet : il est garantie de réussir dans les conditions normales, et aura un avantage dans des situations particulières.
+
+## Pilotage
+
+
+
+## Crochetage
+
+
+
+## Armes
+
+
+### Cinétique
+
+### Energie
+
+
+### Lourde
+
+
+## Mécanique (et Entretient)
+
+
+
+
+## Investigation
+
+
+
+
+## Psychologie
+
+
+
+
+## Piratage
+
+
+
+## Tache Ménagère
+
+
+
+## Bourse
