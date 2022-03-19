@@ -1,16 +1,18 @@
 # Points principaux de Garrix
 - [Points principaux de Garrix](#points-principaux-de-garrix)
-- [Gameplay](#gameplay)
-  - [Test](#test)
-    - [Combat](#combat)
-    - [Action](#action)
+- [Tests](#tests)
+  - [Combat](#combat)
+  - [Action](#action)
   - [Dialogue](#dialogue)
-  - [Combat Terrestre](#combat-terrestre)
-    - [Attaque physique](#attaque-physique)
-    - [Attaque Cybernétique](#attaque-cybernétique)
-  - [Combat Spatial](#combat-spatial)
+- [Le Combat](#le-combat)
+- [Le Réel](#le-réel)
+- [Le Cybernétique](#le-cybernétique)
+- [La Magie](#la-magie)
+- [L'Espace](#lespace)
+  - [Le Vaisseau](#le-vaisseau)
+  - [Les Combats Spatiaux](#les-combats-spatiaux)
     - [Abordage](#abordage)
-  - [Mort](#mort)
+- [La Mort](#la-mort)
 - [Équipement](#équipement)
   - [Implant Neuronal](#implant-neuronal)
   - [Arme](#arme)
@@ -31,29 +33,27 @@
 
 <br/><br/>
 
-# Gameplay
+# Tests
 
-## Test
+Un test est à réaliser quand un personnage doit réaliser une action et que, soit son niveau de maîtrise n'est pas assez haut, soit que cette action comporte une part de chance.  
 
-Un test est à réaliser quand un personnage doit réaliser une action et que son niveau de maîtrise n'est pas assez haut, ou qu'elle est apte à la chance.
-Ainsi, un personnage devra faire un test si il veut atterrir son vaisseau. Cependant, si il maîtrise l'atterrissage et connaît son vaisseau, l'action sera automatiquement un succès.
-A l'inverse, si le personnage veut crocheter une porte, il devra faire dans tous les cas le test : son niveau de maîtrise ne fera que rendre le test plus simple à réaliser.
+Ainsi, un personnage devra faire un test si il veut atterrir un vaisseau qu'il ne connaît pas ; à l'inverse, cette action sera un succès automatique.  
+A l'inverse, si le personnage veut crocheter une porte, il devra dans tous les cas le faire ; son niveau de maîtrise ne fera que rendre le test plus simple.
 
-### Combat
+## Combat
 
 En <u>Combat</u>, les tests se font en **base 100**.  
-Voyez ces tests comme était le pourcentage de réussite de votre action : chacune à une difficulté fixe. A cela, on ajoute et/ou retire des points en fonctions des conditions, connaissances, maîtrises et circonstances.
+Voyez ces tests comme était le pourcentage de réussite de votre action. Cet pourcent varie positivement et/ou négativement en fonction des conditions, connaissances, maîtrises, ainsi que de votre environnement direct.
 
 <u>Par exemple : </u>  
-Tirer sur un garde. Il est proche de vous (et carrure moyenne) -> 90%. Tu vises son genou -> 85%. L'arme utilisée a été pillé, elle est abîmée -> 65%.
-Le joueur devra faire un lancé compris entre 1 et 65 pour réussir son lancée. Plus son résultat sera proche de 1, mieux il réussira son action. Un 1 est considéré comme une réussite critique tandis qu'un **100** correspond à un échec critique. 
+Tirer sur un garde. Il est proche de vous (et carrure moyenne) -> 90%. Tu vises son genou -> 85%. L'arme utilisée a été pillé, elle est abîmée -> 65%.  
+Le joueur devra faire un lancé compris entre 1 et 65 pour réussir son lancée. Plus son résultat sera proche de 1, mieux il réussira son action. Un **1** est considéré comme une réussite critique tandis qu'un **100** correspond à un échec critique. 
 
 <br/>
 
-### Action
+## Action
 
 Hors combat, les tests se réalisent en **base 20**.  
-
 
 <br/><br/>
 
@@ -61,25 +61,25 @@ Hors combat, les tests se réalisent en **base 20**.
 
 ## Dialogue
 
-Pour dialoguer ou s'adresser à quelqu'un/quelque chose, il faut que l'on puisse se comprendre.
-Dans le futur, les traducteurs automatiques sont intégré à tous les systèmes neuronaux du marché. Ils permettent de traduire instantanément presque toutes les langues de la galaxie.
+Pour dialoguer ou s'adresser à quelqu'un/quelque chose, il faut que l'on puisse se comprendre.  
+Dans le futur, les traducteurs automatiques sont intégré à tous les systèmes neuronaux du marché. Ils permettent de traduire instantanément presque toutes les langues de la galaxie.  
 L'accès au langue est néanmoins payant (ainsi que les mises à jours) et ces packs ne sont exempts d'erreur (de prononciation, de lexique). Les patois, expressions populaires (etc.) ne sont pas prises en charge. Enfin, toutes les langues ne sont pas forcément disponibles : dans ces cas là, le traducteur apprendra et s'améliorera.
 
 <br/><br/>
 
-## Combat Terrestre
+# Le Combat
 
-Un combat peut se déclencher à l'initiative des joueurs ou des PNJ. Dans le cas d'une attaque surprise, le camp qui l'initie profite d'un **avantage** lors de son premier tour de jeu.
+Un combat peut se déclencher à l'initiative des joueurs ou des PNJ. Dans le cas d'une attaque surprise, le camp qui l'initie profite d'un **avantage** lors de son premier tour de jeu.  
 Un combat n'a pas forcément besoin de se terminer dans un bain de sang : en effet, il est toujours possible de convaincre ses ennemis de cesser le combat ou bien s'enfuir.
 
-### Attaque physique
+# Le Réel
 
-Chaque attaque nécessite de viser. Une fois suffisamment de dégâts ont été infligés sur un membre, la victime subira un débuff : 
+Chaque attaque nécessite de viser. Une fois que suffisamment de dégâts ont été infligés sur une partie du corps, la victime subit un débuff. Ce débuff varie en fonction des membres et races. Si dessous se trouve un exemple ; la liste des débuffs sera dans le besitiaire 
 
 |Membre |Debuff                                                                                             |
 |-------|---------------------------------------------------------------------------------------------------|
 |Bras   |Déséquipe l'objet qui était tenu par cette main.                                                   |
-|Jambe  |Ralenti (distance de déplacement/2) ; immobilise si aucun moyen de se déplacer.                    |
+|Jambe  |Ralenti (distance de déplacement/2), peut même immobiliser.                                        |
 |Torse  |Peut infliger des malus divers.                                                                    |
 |Tête   |causer aveuglement et confusions. Une attaque réussite qui réduit à 0 les PV garantisse le décès.  |
 
@@ -88,50 +88,75 @@ L'état démembré fait qu'il est impossible pour la victime d'utiliser ce membr
 
 Il est également possible de viser des parties spécifiques de l'attirail du personnage, du décor ou encore d'un vaisseau (etc.).
 
-### Attaque Cybernétique
+<br><br>
 
-Les attaques _Cybernétique_ sont similaires aux attaques 
+# Le Cybernétique
+
+Le _Cybernétique_ englobe 
+
+<br>
+
+# La Magie
+
+La _Magie_ n'existe pas à proprement parlé dans Garrix. Il s'agit bien plus d'un terme valise pour tout ce qui se rattache à l'altération du vivant et de l'environnement par des moyens technologiques de pointes (nano-machines, drogues).  
+
+Pour plus d'info, voir [ici](Implant%20Neuronal.md).
+
 
 <br/><br/>
 
-## Combat Spatial
+# L'Espace
+
+## Le Vaisseau
 
 Les combats spatiaux (et aérien) fonctionnent comme dans le jeu vidéo FTL (Faster Than Light).  
 Chaque vaisseau est équipée de compartiments qui nécessitent un opérateur. Ces compartiments sont :
 
 |Compartiment |Fonction                                                                                                                                                                    |
 |-------------|---------------------------------------------------------------------------------------------------|
-|Pilotage     |Permet de piloter le vaisseau. Dans le cas où aucun opérateur est présent, certaines fonctions ne pourront plus être utilisées. En cas de mise hors service, le vaisseau partira également à la dérive.  |
-|Armement     |Rend possible l'utilisation de l'armement qui équipe votre vaisseau. Dans le cas où aucun opérateur est présent, les armes tireront automatiquement et sur des modules ennemis au hasard. En cas de mise hors service, le vaisseau ne pourra plus riposter.  |
-|Energie      |Génère l'énergie qui est consommée par votre vaisseau. En cas de mise hors service, les armes a énergie, ainsi que le bouclier et les réacteurs de saut seront inutilisables.|
-|Annexe       |Regroupe toutes les fonctions utilisable le poste de pilotage : sonar, radio, brouilleur, téléporteur... |
+|Pilotage     |Permet de piloter le vaisseau. Dans le cas où aucun opérateur est présent, certaines fonctions ne pourront plus être utilisées. En cas de mise hors service, le vaisseau sera également à la dérive.|
+|Armement     |Rend possible l'utilisation de l'armement qui équipe votre vaisseau. Dans le cas où aucun opérateur est présent, les armes viseront au hasard. En cas de mise hors service, le vaisseau ne pourra plus riposter.|
+|Energie      |Génère l'énergie qui est consommée par votre vaisseau. En cas de mise hors service, les armes a énergie, ainsi que le bouclier et le réacteur de saut seront inutilisables.|
+|Annexe       |Regroupe toutes les fonctions utilisable le poste de pilotage : sonar, radio, brouilleur, téléporteur... Tous ces éléments sont dans la même pièce, mais ne necessite qu'un seul opérateur pour les utiliser.|
 |Réparation   |Répare votre vaisseau. Si un des compartiments subit des dégâts, ou est HS, accélère la réparation.|
+
+<br>
+
+## Les Combats Spatiaux 
+
+Au même titre que les combats se déroulant sur la terre ferme, les combats spatiaux se déclarent à l'initiative d'un parti, mais il s'agit la du seul point commun.  
+
+Un combat 
+
 
 
 ### Abordage
 
-Il est possible de profiter de la confusion pour aborder le vaisseau ennemi. 
+Il est possible de profiter de la confusion pour aborder le vaisseau ennemi. La méthode conventionnel utilise un téléporteur, mais tout est possible.
+Un vaisseau abordé devra se concentrer sur ses passages non désiré, puisque ceux-ci veulent en prendre le contrôle. Il est possible que des défenses anti-intrusion soit présente, soyez prudent...
+
+En cas d'abordage réussi, ce bâtiment vous appartient (jusqu'à ce qu'il soit détruit, ou que le système de défense enclenche le système d'auto-destruction).
 
 
 <br/><br/>
 
-## Mort
+# La Mort
 
 Un personnage ayant 0 PV passe à l'état **Critique**.
 Dans cet état, s'il n'a pas pu être sauvé à temps par ses coéquipiers, qu'il est exécuté, ou qu'il n'a pas pu redémarrer son système/coeur, il décédera.
 
 Cependant, la mort n'est pas l'ultime destination d'un joueur mort, il peut revenir à la vie !
 
-- Si il a souscrit à une assurance vie de son vivant ;
+- Si il a souscrit à une assurance vie de son vivant ;  
     Dans ce cas, une somme d'argent sera directement prélevé sur son compte. Les objets qui se trouvaient sur son cadavre resteront dessus, mais pourront lui être "restitué" seulement s'il les a assuré.
     Si il est équipé d'un **Implant Neuronal**, il ne souffrira d'aucune amnésie puisque ses souvenirs seront transféré dans son nouveau corps.
 
-- Si c'est une machine ;
+- Si c'est une machine ;  
     Dans ce cas, il suffit de connecter son noyau de personnalité à n'importe quel appareil.
     **Attention** : plus un noyau de personnalité reste longtemps sans alimentation, plus sa RAM se vide, ce qui résulte par la _perte des souvenirs et expériences récentes_ (car non gravé).
     Sachez cependant que la destruction d'un robot contrôlé à distance n'entraînera aucun dégâts significatif à son contrôleur.
 
-- Sinon ;
+- Sinon ;  
     Fin de la partie pour ce personnage.
     Il pourra léguer ses connaissances et son expérience sous forme de Mémoires (qui prendront la forme que le joueur souhaite) au nouveau personnage.
 
@@ -145,7 +170,10 @@ Cependant, la mort n'est pas l'ultime destination d'un joueur mort, il peut reve
 
 ## Implant Neuronal
 
-L'une des inventions majeure de l'humanité, l'implant neuronal a révolutionné le quotidien. Relique de la Première Ère, ce petit bout de technologie se met directement dans le cortex cérébrale et offre de nombreuses applications
+Relique de la Première Ère, l'Implant Neuronal s'installe directement dans le cortex cérébrale de la personne.  
+C'est grâce à lui que vous pouvez transférer vos souvenirs ou vos ordres aux machines environnantes, que les hackers peuvent plonger dans l'Intranet, etc.
+
+Pour plus de détail, voir [ici](Implant%20Neuronal.md).
 
 <br/><br/>
 
