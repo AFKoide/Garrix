@@ -10,7 +10,7 @@ Bienvenue dans les arcanes de Garrix, où tout vous sera expliqué. Bonne lectur
 
 === Le Vaisseau
 
-Votre refuge dans vos vadrouilles interstellaires, votre vaisseau est une, et peut être votre seule maison.
+Votre maison, votre planque voir peut être votre seul refuge dans vos vadrouilles interstellaires.
 Votre vaisseau est une zone sure. Vous êtes maitre à bord 
 
 ==== Se Déplacer
@@ -127,26 +127,31 @@ Sachez cependant que la destruction d'un robot contrôlé à distance n'entraîn
 Fin de la partie pour ce personnage.
 Il pourra léguer ses connaissances et son expérience sous forme de Mémoires (qui prendront la forme que le joueur souhaite) au nouveau personnage.
 
-Votre droit à la réanimation peut être révoqué selon votre relation avec les différences forces. Vous n'etes qu'un pion, et les joueurs détestent que ces derniers n'en fasses qu'à leur tête.
-Ainsi, une entreprise avec qui vous entretenez de mauvaises relations pourra vous faire réapparaître en plein milieu d'un goulag, ou tout simplement ne pas accéder à votre demande pour ensuite envoyer votre empreinte de mort par mail à vos collègues.
+Votre droit à la réanimation peut être révoqué à tous moment par un des acteurs de ce monde. Après tout, vous n'êtes qu'un pion, et les joueurs détestent que ces derniers n'en fasses qu'à leur tête.
+Ainsi, une entreprise avec qui vous entretenez de mauvaises relations pourra vous faire réapparaître en plein milieu d'un de ses camps de travaux forcés, ou tout simplement ne pas accéder à votre demande.
 
-Un bannissement total du système de réanimation peut être jugé par le gouvernement (en accord avec le texte de loi statuant sur la valeur de la vie).
+Un bannissement total du système de réanimation ne peut être décidé que par la plus haute instance judiciaire du système, en accord avec le texte de loi statuant sur la valeur de la vie.
 
-=== Attributs Primaires
+=== Création du personnage
+
+==== Attributs Principaux & Passifs
 
 Les *Attributs Primaires* sont les fondations de votre personnage.
-Aux nombres de 7, il s’agit de votre Endurance, **Force**, **Intelligence**, **Perception**, **Charisme**, **Agilité** & **Chance**.
+Aux nombres de 7, il s’agit de votre **Condition**, **Puissance**, **Intelligence**, **Clairvoyance**, **Charisme**, **Agilité** & **Chance**.
 
-Vous disposerez d'un nombre points de potentiels décidé à la création de votre personnage. Vous choisirez comment les répartir en fonction d'une fourchette, allant de 0 à 10, et de l'histoire + métier de votre personnage.
-Certains métiers ainsi que races peuvent définir des points fixes ainsi que modifier la fourchette. 
+Vous disposerez d'un nombre points de potentiels décidé à la création de votre personnage. Vous choisirez comment les répartir en fonction d'une fourchette allant de 0 à 10 (dans un premier temps). Le métier, la race ainsi que le passif rentreront en compte quand à la disposition de ces points, en forçant un certain nombre dans un attribut en particulier, en donnant un certain nombre gratuitement ou encore en réduisant/augmentant la fourchette initiale.
+
 Une fois la partie commencée, il vous sera toujours possible de changer la disposition, mais sous certaines conditions.
 
-==== Endurance
+En plus de façonner la carrure et le futur de votre personnage, ces *Attributs Primaires* définissent le potentiel de votre personnage.
 
-L'**Endurance** est l'*Attribut* qui caractérise la résistance, la robustesse et le tempérament de votre personnage.  
+
+==== Condition 
+
+La **Condition** est l'*Attribut* qui se rapporche de l'Endurance. Il caractérise la résistance, la robustesse et le tempérament de votre personnage.  
 Plus il est élevé, plus votre personnage sera capable d'encaisser, aussi bien psychologiquement que physiquement. 
 
-==== Force
+==== Puissance
 
 La **Force** mesure la puissance physique de votre personnage. 
 
@@ -237,7 +242,7 @@ La **Chance** désigne les chances que quelque chose se passe. Cet attribut infl
 Cet attribut fonctionne différemment des autres : à chaque test, le joueur peut déclarer qu'il *teste sa chance*. Sa chance sera alors ajouté à son attribut testé.  
 L’action de *tenter sa chance* devra se suivre obligatoirement d’un test : il ne peut pas y avoir de réussite automatique.
 
-> Je ne suis pas sur de quelle présentation
+> Je ne suis pas sur de quelle présentation pour cette règle.
 
 .Esquive
 |===
