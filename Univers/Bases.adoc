@@ -31,11 +31,9 @@ Tout saut laisse une marque, appelé *déchirure*, dans le tissu spatial. Ces ma
 
 ===== Interdiction
 
-Il y a quelques années de cela, une nouvelle utilisation du Savatas a été découverte. 
-Si certaines conditions sont respectées, le Savatas est capable de neutraliser ses effets. On appelle cette technologie l'*Interdiction*. 
-Un vaisseau entrant dans une zone *interdite* sera sortie de FTL, et ne pourra pas bondir tant qu'il se trouvera dans la zone.
-
-Le FTL n'est plus le moyen le plus sûr de se déplacer dans l'espace maintenant.
+Il y a quelques décennies de cela, une nouvelle utilisation du Savatas fut découverte. 
+Si certaines conditions sont respectées, ce dernier peut neutraliser ses effets : on a appelé cette technologie l'*Interdiction*. 
+Un vaisseau entrant dans une zone *interdite* sera immédiatement sortie de FTL, et ne pourra pas bondir tant qu'il se trouvera dans la zone.
 
 ==== Modules et Équipements
 
@@ -51,30 +49,26 @@ Leur nombre dépend cette fois ci du noyau, et il vous faudra une alimentation c
 La structure d'un vaisseau est semblable à celle du jeu FTL (Faster Than Light).
 Un vaisseau est composé de plusieurs compartiments. Plus votre vaisseau est grand, plus il en aura, mais plus il vous faudra de membre d'équipage.
 
-[%autowidth.stretch]
+[%header,cols="^,6"]
 .Compartiments
 |===
 |Compartiment |Fonction
-|Pilotage|Permet de piloter le vaisseau. Dans le cas où aucun opérateur est présent, certaines fonctions ne pourront plus être utilisées. En cas de mise hors service, le vaisseau sera à la dérive.
-|Armement|Rend possible l'utilisation de l'armement qui équipe votre vaisseau. Dans le cas où aucun opérateur est présent, les armes viseront au hasard. En cas de mise hors service, le vaisseau ne pourra plus riposter.
-|Energie|Génère l'énergie qui est consommée par votre vaisseau. En cas de mise hors service, les armes a énergie, ainsi que le bouclier et le réacteur de saut seront inutilisables.
-|Réparation|Gère la réparation de votre vaisseau. Si un des compartiments subit des dégâts, ou est HS, accélère la réparation. La salle se réparera en priorité.
-|Annexe|Regroupe toutes les fonctions utilisable le poste de pilotage : brouilleur, téléporteur... Tous ces éléments sont dans la même pièce, sauf le téléporteur, mais ne nécessite qu'un seul opérateur pour les utiliser.
+|Pilotage|Permet de piloter le vaisseau.
+Dans le cas où aucun opérateur est présent, certaines fonctions ne pourront plus être utilisées. En cas de mise hors service, le vaisseau sera à la dérive.
+|Armement|Rend possible l'utilisation de l'armement qui équipe votre vaisseau.
+Dans le cas où aucun opérateur est présent, les armes viseront au hasard. En cas de mise hors service, le vaisseau ne pourra plus riposter.
+|Energie|Génère l'énergie qui est consommée par votre vaisseau.
+En cas de mise hors service, les armes a énergie, ainsi que le bouclier et le réacteur de saut seront inutilisables.
+|Réparation|Gère la réparation de votre vaisseau.
+Si un des compartiments subit des dégâts, ou est HS, accélère la réparation. La salle se réparera en priorité.
+|Annexe|Regroupe toutes les fonctions utilisable le poste de pilotage : brouilleur, téléporteur...
+Tous ces éléments sont dans la même pièce, sauf le téléporteur, mais ne nécessite qu'un seul opérateur pour les mettre en service.
 |===
-
-* Brouilleur :
-Empêche les verrouillages automatiques (ce qui comprend le verrouillage de missiles, la téléportation etc.). Fonctionne sous forme de pulse.
-* Téléporteur :
-Permet de se retrouver instantanément à des coordonnées prédéfinies. Certains modèles permettent même de faire le chemin inverse.
-* Radar :
-Détection passive des menaces et objets se trouvant dans la zone.
-* Radio :
-Écoute passivement le vide spatial, en espérant capter des signaux. Les messages sont le plus souvent chiffrés. Vous pouvez également émettre (mais faites attention, le vide a des oreilles).
 
 ==== Energie
 
-L'énergie est une ressource très importante pour votre vaisseau. Plus vous avez de modules et de compartiments, plus il vous en faudra.
-Sans énergie pour une longue durée, votre vaisseau n'est plus en capacité de garantir votre survie, ce qui cause l'incapacité de l'équipage dans un premier temps, puis la mort par asphyxie. La durée dépend de la taille et de l'équipage du vaisseau.
+L'énergie est une ressource très importante pour un vaisseau. Plus vous avez de modules et de compartiments, plus il vous faudra en dépenser pour les utiliser.
+Sans énergie pour une longue durée, votre vaisseau n'est plus en capacité de garantir votre survie : l'équipage sera incapacité dans un premier temps, puis la mort par asphyxie (si aucun membre ne porte de tenue de survie).
 
 L'énergie se recharge d'un certain montant au début de chaque tour. Ce montant dépend du générateur et de sa taille.
 
@@ -105,32 +99,18 @@ Il faudra redémarrer au plus vite car il est fort probable que les forces de s�
 Comme dit en introduction, la surcharge est nécessite que l'on fasse retire les sécurités de *matériel propriétaire*, or, selon l'article premier de la loi intergalactique, des modifications sont interdites et peuvent vous valoir une condamnation de catégorie IV.
 En plus d'être fortement illégal, une modification peut s'avérer couteuse et dangereuse, mais surtout très difficile à réaliser. Il existe sur le marché noir des générateurs pret à l'emploi, mais dans la majorité des cas, ce sera à votre pilote/mécano de le faire. 
 
+===== Habilités
+
+* Brouilleur :
+Empêche les verrouillages automatiques (ce qui comprend le verrouillage de missiles, la téléportation etc.). Fonctionne sous forme de pulse.
+* Téléporteur :
+Permet de se retrouver instantanément à des coordonnées prédéfinies. Certains modèles permettent même de faire le chemin inverse.
+* Radar :
+Détection passive des menaces et objets se trouvant dans la zone.
+* Radio :
+Écoute passivement le vide spatial, en espérant capter des signaux. Les messages sont le plus souvent chiffrés. Vous pouvez également émettre (mais faites attention, le vide a des oreilles).
+
 == Le Personnage
-
-=== La Mort
-
-Un personnage ayant 0 PV passe à l'état **Critique**.
-Dans cet état, s'il n'a pas pu être sauvé à temps par ses coéquipiers, qu'il est exécuté, ou qu'il n'a pas pu redémarrer son système/coeur, il décédera.
-
-Cependant, la mort n'est pas l'ultime destination, ce n'est qu'une étape de la vie !
-
-- Si il a souscrit à une assurance vie de son vivant ;  
-Dans ce cas, une somme d'argent sera directement prélevé sur son compte. Les objets qui se trouvaient sur son cadavre resteront dessus, mais pourront lui être "restitué" seulement s'il les a assuré.
-Si il est équipé d'un **Implant Neuronal**, il ne souffrira d'aucune amnésie puisque ses souvenirs seront transféré dans son nouveau corps.
-
-- Si c'est une machine ;  
-Dans ce cas, il suffit de connecter son noyau de personnalité à n'importe quel appareil.
-**Attention** : plus un noyau de personnalité reste longtemps sans alimentation, plus sa RAM se vide, ce qui résulte par la _perte des souvenirs et expériences récentes_ (car non gravé).
-Sachez cependant que la destruction d'un robot contrôlé à distance n'entraînera aucun dégâts significatif à son contrôleur.
-
-- Sinon ;  
-Fin de la partie pour ce personnage.
-Il pourra léguer ses connaissances et son expérience sous forme de Mémoires (qui prendront la forme que le joueur souhaite) au nouveau personnage.
-
-Votre droit à la réanimation peut être révoqué à tous moment par un des acteurs de ce monde. Après tout, vous n'êtes qu'un pion, et les joueurs détestent que ces derniers n'en fasses qu'à leur tête.
-Ainsi, une entreprise avec qui vous entretenez de mauvaises relations pourra vous faire réapparaître en plein milieu d'un de ses camps de travaux forcés, ou tout simplement ne pas accéder à votre demande.
-
-Un bannissement total du système de réanimation ne peut être décidé que par la plus haute instance judiciaire du système, en accord avec le texte de loi statuant sur la valeur de la vie.
 
 === Création du personnage
 
@@ -139,21 +119,18 @@ Un bannissement total du système de réanimation ne peut être décidé que par
 Les *Attributs Primaires* sont les fondations de votre personnage.
 Aux nombres de 7, il s’agit de votre **Condition**, **Puissance**, **Intelligence**, **Clairvoyance**, **Charisme**, **Agilité** & **Chance**.
 
-Vous disposerez d'un nombre points de potentiels décidé à la création de votre personnage. Vous choisirez comment les répartir en fonction d'une fourchette allant de 0 à 10 (dans un premier temps). Le métier, la race ainsi que le passif rentreront en compte quand à la disposition de ces points, en forçant un certain nombre dans un attribut en particulier, en donnant un certain nombre gratuitement ou encore en réduisant/augmentant la fourchette initiale.
+Vous disposerez d'un nombre points de potentiels décidé à la création de votre personnage. Vous choisirez comment les répartir en fonction d'une fourchette allant de 0 à 10 (dans un premier temps). Le métier, la race ainsi que le passif rentreront en compte quand à la disposition de ces points, en forçant un certain nombre dans un attribut en particulier, en donnant un quelques points en plus ou encore en réduisant/augmentant la fourchette initiale.
 
 Une fois la partie commencée, il vous sera toujours possible de changer la disposition, mais sous certaines conditions.
 
-En plus de façonner la carrure et le futur de votre personnage, ces *Attributs Primaires* définissent le potentiel de votre personnage.
-
-
 ==== Condition 
 
-La **Condition** est l'*Attribut* qui se rapporche de l'Endurance. Il caractérise la résistance, la robustesse et le tempérament de votre personnage.  
+La **Condition** est l'*Attribut* qui se rapproche de l'Endurance. Il caractérise la résistance, la robustesse et le tempérament de votre personnage.  
 Plus il est élevé, plus votre personnage sera capable d'encaisser, aussi bien psychologiquement que physiquement. 
 
 ==== Puissance
 
-La **Force** mesure la puissance physique de votre personnage. 
+La **Puissance** mesure la force physique et mentale de votre personnage. 
 
 ==== Intelligence
 
@@ -310,7 +287,30 @@ Un personnage accumulera des points de maîtrises en fonction de ses réussites 
 Relique de la Première Ère, l'Implant Neuronal s'installe directement dans le cortex cérébrale de la personne.  
 C'est grâce à lui que vous pouvez transférer vos souvenirs ou vos ordres aux machines environnantes, que les hackers peuvent plonger dans les machines, etc.
 
+=== La Mort
 
+Un personnage ayant 0 PV passe à l'état **Critique**.
+Dans cet état, s'il n'a pas pu être sauvé à temps par ses coéquipiers, qu'il est exécuté, ou qu'il n'a pas pu redémarrer son système/coeur, il décédera.
+
+Cependant, la mort n'est pas l'ultime destination, ce n'est qu'une étape de la vie !
+
+- Si il a souscrit à une assurance vie de son vivant ;  
+Dans ce cas, une somme d'argent sera directement prélevé sur son compte. Les objets qui se trouvaient sur son cadavre resteront dessus, mais pourront lui être "restitué" seulement s'il les a assuré.
+Si il est équipé d'un **Implant Neuronal**, il ne souffrira d'aucune amnésie puisque ses souvenirs seront transféré dans son nouveau corps.
+
+- Si c'est une machine ;  
+Dans ce cas, il suffit de connecter son noyau de personnalité à n'importe quel appareil.
+**Attention** : plus un noyau de personnalité reste longtemps sans alimentation, plus sa RAM se vide, ce qui résulte par la _perte des souvenirs et expériences récentes_ (car non gravé).
+Sachez cependant que la destruction d'un robot contrôlé à distance n'entraînera aucun dégâts significatif à son contrôleur.
+
+- Sinon ;  
+Fin de la partie pour ce personnage.
+Il pourra léguer ses connaissances et son expérience sous forme de Mémoires (qui prendront la forme que le joueur souhaite) au nouveau personnage.
+
+Votre droit à la réanimation peut être révoqué à tous moment par un des acteurs de ce monde. Après tout, vous n'êtes qu'un pion, et les joueurs détestent que ces derniers n'en fasses qu'à leur tête.
+Ainsi, une entreprise avec qui vous entretenez de mauvaises relations pourra vous faire réapparaître en plein milieu d'un de ses camps de travaux forcés, ou tout simplement ne pas accéder à votre demande.
+
+Un bannissement total du système de réanimation ne peut être décidé que par la plus haute instance judiciaire du système, en accord avec le texte de loi statuant sur la valeur de la vie.
 
 == Tests
 
